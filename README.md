@@ -10,11 +10,13 @@ This project uses [pipenv](http://docs.pipenv.org/en/latest/) to manage dependen
 pipenv install --three
 ```
 
-Run this if you want to active extentions:
+Optional: Install extensions
 
 ```sh
 jupyter contrib nbextension install --user
 ```
+
+Optional: Activate extensions
 
 ```sh
 jupyter nbextensions_configurator enable --user
@@ -28,11 +30,22 @@ pipenv run jupyter notebook
 
 ## Data
 
-#### State Comptroller's Fired With Cause dataset
-A listing of all employees who have been fired with cause by the state. Each row represents a terminated employment, meaning if someone has been fired multiple times, they will be represented by multiple rows.
+#### Texas maternal mortality task force
+The task force studied maternality mortality across the state and put together a [report](https://www.dshs.texas.gov/mch/maternal_mortality_and_morbidity.shtm). Data is current as of 2014.
 
-#### State Comptroller Payroll database
-This is what the Tribune uses to update the [Salaries Explorer](https://salaries.texastribune.org/state-comptroller-payroll/). Because this data is requested from the same source as the fired with cause data, they both contain common identifiers.
+#### Texas vital statistics
+Every year, Texas DSHS puts out [vital statistics](https://www.dshs.texas.gov/chs/vstat/annrpts.shtm), which includes maternal mortality rates, prenatal care numbers, etc. Data is current as of 2014.
+
+#### County designations
+Texas DSHS [classifies counties](https://www.dshs.texas.gov/chs/hprc/counties.shtm) based on whether they are rural or urban and border or non-border. Data is current as of 2013.
+
+
+#### PRAMS
+This [survey](https://www.dshs.texas.gov/mch/PRAMS.aspx) gives us postpartum care numbers for Texas. Data is current as of 2014.
+
+#### American Fact Finder
+This [tool](https://factfinder.census.gov/faces/nav/jsf/pages/searchresults.xhtml) from the US Census Bureau provides demographic data. We're using 2015 ACS 5-year estimates.
+
 
 ## Associated Reporters
 
