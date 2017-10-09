@@ -39,7 +39,6 @@ Every year, Texas DSHS puts out [vital statistics](https://www.dshs.texas.gov/ch
 #### County designations
 Texas DSHS [classifies counties](https://www.dshs.texas.gov/chs/hprc/counties.shtm) based on whether they are rural or urban and border or non-border. Data is current as of 2013.
 
-
 #### PRAMS
 This [survey](https://www.dshs.texas.gov/mch/PRAMS.aspx) gives us postpartum care numbers for Texas. Data is current as of 2014.
 
