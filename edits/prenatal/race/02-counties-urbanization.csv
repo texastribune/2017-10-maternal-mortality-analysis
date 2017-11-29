@@ -1,0 +1,255 @@
+county,white_percent,white_number,black_percent,black_number,hispanic_percent,hispanic_number,other_percent,other_number,geo,Urbanization Status,Border Status
+Anderson,67.2,"1,150",54.9,254,56.3,391,66.7,46,0500000US48001,Rural,Non-Border
+Andrews,68.7,369,*,**,56.8,571,*,**,0500000US48003,Rural,Non-Border
+Angelina,64.7,"2,048",55.9,536,51.7,886,56.3,85,0500000US48005,Rural,Non-Border
+Aransas,53.6,354,*,10,49.4,251,*,18,0500000US48007,Urban,Non-Border
+Archer,83.3,265,--,0,68.9,31,*,**,0500000US48009,Urban,Non-Border
+Armstrong,78.1,75,--,0,*,**,*,**,0500000US48011,Urban,Non-Border
+Atascosa,61.8,576,*,**,57.4,"1,186",*,16,0500000US48013,Urban,Non-Border
+Austin Cnty,67.7,549,48.3,83,49.1,308,*,15,0500000US48015,Urban,Non-Border
+Bailey,66.5,111,*,**,37.4,141,*,**,0500000US48017,Rural,Non-Border
+Bandera,60.7,342,*,**,44,77,*,11,0500000US48019,Urban,Non-Border
+Bastrop,77.1,"1,629",65.3,169,62.9,"1,391",64.8,79,0500000US48021,Urban,Non-Border
+Baylor,79.4,123,*,**,85.2,23,*,**,0500000US48023,Rural,Non-Border
+Bee,67.1,302,*,14,59.6,862,*,**,0500000US48025,Rural,Non-Border
+Bell,74.7,"8,701",68,"3,872",64.2,"4,054",66.4,"1,475",0500000US48027,Urban,Non-Border
+Bexar,74.2,"21,595",58.7,"4,710",60.4,"48,770",65.7,"4,249",0500000US48029,Urban,Non-Border
+Blanco,63.8,190,*,**,45.2,56,--,0,0500000US48031,Rural,Non-Border
+Borden,*,20,--,0,*,**,--,0,0500000US48033,Rural,Non-Border
+Bosque,66.2,385,*,11,50.8,125,*,12,0500000US48035,Rural,Non-Border
+Bowie,61.7,"2,066",40.3,705,45.5,246,43.9,82,0500000US48037,Urban,Non-Border
+Brazoria,66,"6,992",61.5,"1,398",59.6,"4,520",66.4,"1,264",0500000US48039,Urban,Non-Border
+Brazos,74.8,"4,164",50.6,725,60.9,"2,379",60.7,575,0500000US48041,Urban,Non-Border
+Brewster,72.9,180,*,**,64.2,174,*,**,0500000US48043,Rural,Border
+Briscoe,64.1,25,--,0,*,12,--,0,0500000US48045,Rural,Non-Border
+Brooks,*,12,*,**,45.5,241,*,**,0500000US48047,Rural,Border
+Brown,76.8,"1,155",70.1,47,71.3,347,73.7,28,0500000US48049,Rural,Non-Border
+Burleson Cnty,66.9,354,60,69,47.4,101,*,**,0500000US48051,Urban,Non-Border
+Burnet,73.7,980,*,15,54.7,458,62.1,41,0500000US48053,Rural,Non-Border
+Caldwell,67.6,567,43.5,27,54.5,826,63.2,24,0500000US48055,Urban,Non-Border
+Calhoun,77.7,358,*,10,65.4,548,54.8,51,0500000US48057,Rural,Non-Border
+Callahan,67.5,389,*,**,62.2,46,*,**,0500000US48059,Urban,Non-Border
+Cameron,71.3,884,61.9,60,69.8,"24,291",64.7,225,0500000US48061,Urban,Border
+Camp,68.4,283,54.9,89,48.3,160,*,15,0500000US48063,Rural,Non-Border
+Carson,78.3,213,*,**,*,17,*,**,0500000US48065,Urban,Non-Border
+Cass,58.4,696,41,145,48.5,47,64.3,36,0500000US48067,Rural,Non-Border
+Castro,81.6,102,*,**,50.7,251,*,**,0500000US48069,Rural,Non-Border
+Chambers,66.1,975,54.8,80,59.4,349,61.9,26,0500000US48071,Urban,Non-Border
+Cherokee,60.5,"1,119",49.7,216,39.7,481,50,36,0500000US48073,Rural,Non-Border
+Childress,68.4,130,*,12,49.3,70,*,11,0500000US48075,Rural,Non-Border
+Clay,78.1,307,--,0,*,16,*,**,0500000US48077,Urban,Non-Border
+Cochran,55.4,36,*,**,43.2,67,*,**,0500000US48079,Rural,Non-Border
+Coke,66.1,74,--,0,57.1,24,*,**,0500000US48081,Rural,Non-Border
+Coleman,59.8,195,*,**,58.9,53,*,**,0500000US48083,Rural,Non-Border
+Collin,78.6,"22,348",62.4,"2,924",57.8,"5,618",74.3,"7,005",0500000US48085,Urban,Non-Border
+Collingsworth,61.9,60,*,**,41,34,*,**,0500000US48087,Rural,Non-Border
+Colorado,72.8,366,56.7,93,50.3,275,*,**,0500000US48089,Rural,Non-Border
+Comal,66,"2,668",57.1,44,48.4,"1,173",60.7,108,0500000US48091,Urban,Non-Border
+Comanche,65.8,304,*,**,57.8,181,*,**,0500000US48093,Rural,Non-Border
+Concho,73.3,55,*,**,48.2,27,*,**,0500000US48095,Rural,Non-Border
+Cooke,67.7,"1,212",55.7,49,38.1,271,45.9,28,0500000US48097,Rural,Non-Border
+Coryell,73.1,"2,203",71,353,68.8,555,63,221,0500000US48099,Urban,Non-Border
+Cottle,76.9,30,*,**,*,10,*,**,0500000US48101,Rural,Non-Border
+Crane,84.2,85,*,**,67.3,181,*,**,0500000US48103,Rural,Non-Border
+Crockett,63.1,53,*,**,46.9,92,*,**,0500000US48105,Rural,Border
+Crosby,56.9,66,*,**,55.5,146,*,**,0500000US48107,Urban,Non-Border
+Culberson,*,15,--,0,63.3,76,*,**,0500000US48109,Rural,Border
+Dallam,73.7,235,*,**,55.7,195,*,11,0500000US48111,Rural,Non-Border
+Dallas Cnty,68.8,"29,176",48,"19,153",54.7,"51,208",61.6,"9,810",0500000US48113,Urban,Non-Border
+Dawson,73,208,*,12,55.9,328,*,12,0500000US48115,Rural,Non-Border
+Deaf Smith,74.3,182,*,**,54.5,782,*,**,0500000US48117,Rural,Non-Border
+Delta,71.6,174,*,19,*,**,*,**,0500000US48119,Rural,Non-Border
+Denton Cnty,76.3,"20,002",59.1,"2,462",53,"6,336",66.2,"3,461",0500000US48121,Urban,Non-Border
+DeWitt,73.7,471,53.4,39,59.6,322,*,11,0500000US48123,Rural,Non-Border
+Dickens,57.4,39,*,**,*,**,--,0,0500000US48125,Rural,Non-Border
+Dimmit,59.7,46,*,**,67.3,554,*,**,0500000US48127,Rural,Border
+Donley,65.3,79,*,**,*,15,--,0,0500000US48129,Rural,Non-Border
+Duval,48.1,26,--,0,47.3,333,50,**,0500000US48131,Rural,Border
+Eastland,61.2,493,*,**,57.3,86,*,12,0500000US48133,Rural,Non-Border
+Ector,74.4,"3,096",65.8,294,69.5,"6,414",65.9,226,0500000US48135,Urban,Non-Border
+Edwards,59.5,22,*,**,35.8,29,--,0,0500000US48137,Rural,Border
+Ellis,67.9,"3,841",51.3,447,46.6,"1,485",54.9,113,0500000US48139,Urban,Non-Border
+El Paso Cnty,67.5,"5,306",65.4,"1,237",61.9,"32,965",63.1,"1,145",0500000US48141,Urban,Border
+Erath,64.9,"1,058",*,**,43.9,326,50,26,0500000US48143,Rural,Non-Border
+Falls,57.8,203,39.5,94,46.8,116,*,**,0500000US48145,Urban,Non-Border
+Fannin,63.8,803,44,37,39.6,101,*,20,0500000US48147,Rural,Non-Border
+Fayette,78,529,65.5,57,57.3,239,*,14,0500000US48149,Rural,Non-Border
+Fisher,71.4,90,*,**,71.4,45,*,**,0500000US48151,Rural,Non-Border
+Floyd,70.7,65,*,**,54.1,157,*,**,0500000US48153,Rural,Non-Border
+Foard,81.6,31,*,**,*,10,--,0,0500000US48155,Rural,Non-Border
+Fort Bend,75.1,"10,008",53.7,"4,386",59.4,"6,695",67,"6,005",0500000US48157,Urban,Non-Border
+Franklin,68.7,277,*,12,39.2,40,*,**,0500000US48159,Rural,Non-Border
+Freestone,67,404,53.5,83,41.4,116,*,10,0500000US48161,Rural,Non-Border
+Frio,56.5,109,*,**,47.1,463,*,**,0500000US48163,Rural,Border
+Gaines,49.1,532,*,10,45.6,356,*,13,0500000US48165,Rural,Non-Border
+Galveston Cnty,63.5,"6,802",56.3,"1,479",61.7,"3,448",59.4,542,0500000US48167,Urban,Non-Border
+Garza,65,89,*,13,44.2,68,*,**,0500000US48169,Rural,Non-Border
+Gillespie,68.2,476,*,**,46.8,234,*,**,0500000US48171,Rural,Non-Border
+Glasscock,75.6,34,--,0,*,**,*,**,0500000US48173,Rural,Non-Border
+Goliad,77.8,130,*,**,65.5,91,*,**,0500000US48175,Urban,Non-Border
+Gonzales,65.1,293,55.2,37,40.9,387,*,11,0500000US48177,Rural,Non-Border
+Gray,66.3,641,68.8,22,58.6,378,*,14,0500000US48179,Rural,Non-Border
+Grayson,64.2,"3,290",51.8,234,39.8,643,52.3,170,0500000US48181,Urban,Non-Border
+Gregg,61,"2,740",47.9,962,45.7,"1,204",53.8,163,0500000US48183,Urban,Non-Border
+Grimes,64.4,471,57.2,95,55.5,242,*,10,0500000US48185,Rural,Non-Border
+Guadalupe,70.2,"2,869",62.5,223,54.5,"1,945",60.2,160,0500000US48187,Urban,Non-Border
+Hale,67.8,447,58.1,50,57.9,"1,023",63.4,26,0500000US48189,Rural,Non-Border
+Hall,69,40,*,12,51.9,40,--,0,0500000US48191,Rural,Non-Border
+Hamilton,69.9,239,--,0,46.1,41,*,**,0500000US48193,Rural,Non-Border
+Hansford,74.2,112,--,0,45.3,107,*,**,0500000US48195,Rural,Non-Border
+Hardeman,58.9,73,*,**,49.3,37,*,**,0500000US48197,Rural,Non-Border
+Hardin,70.6,"2,033",55.5,117,63.1,111,72.7,56,0500000US48199,Urban,Non-Border
+Harris,69.5,"54,571",52.5,"30,492",54.4,"87,842",63.5,"17,436",0500000US48201,Urban,Non-Border
+Harrison,63.7,"1,428",52.8,435,42.5,380,69.3,104,0500000US48203,Rural,Non-Border
+Hartley,81.4,162,--,0,66.3,61,*,**,0500000US48205,Rural,Non-Border
+Haskell,64.7,97,*,**,54.1,46,*,**,0500000US48207,Rural,Non-Border
+Hays,78.1,"4,047",65,180,61.4,"3,208",69.3,233,0500000US48209,Urban,Non-Border
+Hemphill,77.7,146,100,**,47.6,68,*,**,0500000US48211,Rural,Non-Border
+Henderson,60.2,"1,862",50.8,134,48.6,424,40,42,0500000US48213,Rural,Non-Border
+Hidalgo,75.4,997,69.1,65,60.8,"34,085",71.8,336,0500000US48215,Urban,Border
+Hill,67,791,46.8,65,53.6,345,57.5,23,0500000US48217,Rural,Non-Border
+Hockley,66.5,385,*,17,51.5,509,*,**,0500000US48219,Rural,Non-Border
+Hood,70,"1,644",*,10,45.8,234,62.1,41,0500000US48221,Urban,Non-Border
+Hopkins,77,"1,177",62.7,96,62.6,342,61.4,27,0500000US48223,Rural,Non-Border
+Houston Cnty,68.6,404,57.2,174,47.5,84,*,12,0500000US48225,Rural,Non-Border
+Howard,65.8,712,*,20,51,561,*,18,0500000US48227,Rural,Non-Border
+Hudspeth,*,10,--,0,50.8,97,--,0,0500000US48229,Urban,Border
+Hunt,61.6,"2,151",50.9,252,39.4,468,55.1,98,0500000US48231,Urban,Non-Border
+Hutchinson,69.3,717,*,15,54.2,230,64.7,22,0500000US48233,Rural,Non-Border
+Irion,73.5,36,--,0,*,13,--,0,0500000US48235,Urban,Non-Border
+Jack,70.1,256,*,**,54.8,63,*,**,0500000US48237,Rural,Non-Border
+Jackson,82.4,402,60.9,39,68,266,*,**,0500000US48239,Rural,Non-Border
+Jasper,67,"1,026",57.4,218,52.9,100,67.9,36,0500000US48241,Rural,Non-Border
+Jeff Davis,70.3,26,--,0,*,15,--,0,0500000US48243,Rural,Border
+Jefferson,73.4,"3,639",63,"3,388",55.8,"2,169",63.1,500,0500000US48245,Urban,Non-Border
+Jim Hogg,*,19,--,0,73.1,274,*,**,0500000US48247,Rural,Border
+Jim Wells,60.8,245,*,**,49.9,"1,151",*,**,0500000US48249,Rural,Non-Border
+Johnson,69.9,"4,772",67.9,146,49.4,"1,246",45.1,128,0500000US48251,Urban,Non-Border
+Jones,66.8,381,*,17,51.7,125,*,**,0500000US48253,Urban,Non-Border
+Karnes,67.2,164,*,**,54.5,299,*,**,0500000US48255,Rural,Non-Border
+Kaufman,65.4,"2,924",55.2,422,50.1,911,51.6,94,0500000US48257,Urban,Non-Border
+Kendall,78.2,800,*,**,50.6,289,*,18,0500000US48259,Urban,Non-Border
+Kenedy,*,**,--,0,*,**,--,0,0500000US48261,Rural,Border
+Kent,66.7,24,--,0,*,**,--,0,0500000US48263,Rural,Non-Border
+Kerr,53.9,756,*,17,41.7,424,41.4,24,0500000US48265,Rural,Non-Border
+Kimble,58.4,80,--,0,40,28,--,0,0500000US48267,Rural,Non-Border
+King,*,**,--,0,*,**,*,**,0500000US48269,Rural,Non-Border
+Kinney,70.5,31,--,0,46.5,59,*,**,0500000US48271,Rural,Border
+Kleberg,70.9,331,50.9,27,60.9,"1,036",62.3,38,0500000US48273,Rural,Non-Border
+Knox,75,93,*,10,57,69,*,**,0500000US48275,Rural,Non-Border
+Lamar,69,"1,618",56.4,299,44.7,152,50.8,64,0500000US48277,Rural,Non-Border
+Lamb,64.5,182,*,**,49.5,313,*,13,0500000US48279,Rural,Non-Border
+Lampasas,73.3,519,*,12,59.4,174,55.8,24,0500000US48281,Urban,Non-Border
+La Salle,68,34,--,0,56.8,237,*,**,0500000US48283,Rural,Border
+Lavaca,79.7,563,57.6,34,52.8,168,*,**,0500000US48285,Rural,Non-Border
+Lee,71.9,353,62,49,61,228,*,10,0500000US48287,Rural,Non-Border
+Leon,67.2,453,50,21,43,95,*,**,0500000US48289,Rural,Non-Border
+Liberty,54.1,"1,762",49.2,195,43.4,640,46,40,0500000US48291,Urban,Non-Border
+Limestone,64.4,493,50.8,95,41.3,203,*,12,0500000US48293,Rural,Non-Border
+Lipscomb,66.3,61,--,0,34.7,35,--,0,0500000US48295,Rural,Non-Border
+Live Oak,68.9,177,--,0,53.1,188,*,**,0500000US48297,Rural,Non-Border
+Llano,67.7,404,*,9,55.2,80,*,11,0500000US48299,Rural,Non-Border
+Loving,--,0,--,0,--,0,--,0,0500000US48301,Rural,Non-Border
+Lubbock Cnty,71.7,"6,783",53.2,877,57.2,"4,762",61.3,479,0500000US48303,Urban,Non-Border
+Lynn,72,121,*,**,53.1,103,*,**,0500000US48305,Urban,Non-Border
+McCulloch,70.6,187,*,**,56.4,101,*,**,0500000US48307,Rural,Non-Border
+McLennan,69.4,"5,400",54.4,"1,343",57.5,"3,253",65.3,324,0500000US48309,Urban,Non-Border
+McMullen,*,15,--,0,*,**,*,**,0500000US48311,Rural,Border
+Madison,68.8,238,48.3,56,47.5,96,*,**,0500000US48313,Rural,Non-Border
+Marion,58,189,49.5,52,*,13,*,12,0500000US48315,Rural,Non-Border
+Martin,56.8,108,*,**,49.2,131,*,**,0500000US48317,Urban,Non-Border
+Mason,68.8,86,--,0,44.8,30,*,**,0500000US48319,Rural,Non-Border
+Matagorda,64.2,568,47.6,111,53,734,64.8,35,0500000US48321,Rural,Non-Border
+Maverick,80,88,*,**,77.6,"4,124",82.9,58,0500000US48323,Rural,Border
+Medina,73.9,732,*,**,62.7,921,68.2,30,0500000US48325,Urban,Non-Border
+Menard,71.2,37,*,**,65.1,28,*,**,0500000US48327,Rural,Non-Border
+Midland Cnty,72.3,"4,007",50.4,355,54.1,"3,553",51.3,271,0500000US48329,Urban,Non-Border
+Milam,72.2,444,52.5,52,51.5,212,*,13,0500000US48331,Rural,Non-Border
+Mills,69.4,102,--,0,56,28,*,**,0500000US48333,Rural,Non-Border
+Mitchell,65.9,168,*,**,55.9,114,*,**,0500000US48335,Rural,Non-Border
+Montague,65.3,579,*,**,51.4,94,*,15,0500000US48337,Rural,Non-Border
+Montgomery,69.4,"14,046",56.2,801,56.1,"5,457",59.8,"1,027",0500000US48339,Urban,Non-Border
+Moore,69.5,335,*,15,51.3,660,27.7,81,0500000US48341,Rural,Non-Border
+Morris,61.9,297,55,93,49.1,55,*,10,0500000US48343,Rural,Non-Border
+Motley,*,18,--,0,*,**,--,0,0500000US48345,Rural,Non-Border
+Nacogdoches Cnty,68.8,"1,391",47.7,420,55.9,740,48.5,83,0500000US48347,Rural,Non-Border
+Navarro,62.6,956,44.1,222,37.5,485,21.3,27,0500000US48349,Rural,Non-Border
+Newton,63.9,318,58.4,73,*,**,79.4,27,0500000US48351,Urban,Non-Border
+Nolan,72.9,382,62.3,33,62.7,272,*,**,0500000US48353,Rural,Non-Border
+Nueces,67.7,"4,096",57,387,60.6,"9,867",64.7,388,0500000US48355,Urban,Non-Border
+Ochiltree,68.3,213,*,**,39.7,219,*,**,0500000US48357,Rural,Non-Border
+Oldham,75.2,79,--,0,*,**,*,**,0500000US48359,Urban,Non-Border
+Orange Cnty,69.7,"2,667",54.4,270,62.1,239,59,95,0500000US48361,Urban,Non-Border
+Palo Pinto,72.5,901,*,17,57.4,299,62.2,23,0500000US48363,Rural,Non-Border
+Panola,63.6,597,48.5,100,38.3,80,77.1,54,0500000US48365,Rural,Non-Border
+Parker,74.9,"4,218",66,35,51.4,514,62.8,81,0500000US48367,Urban,Non-Border
+Parmer,70.9,134,*,**,43.9,221,*,**,0500000US48369,Rural,Non-Border
+Pecos,66.7,142,*,**,57.2,481,*,12,0500000US48371,Rural,Border
+Polk,60,"1,011",50.7,107,51.8,247,44.6,45,0500000US48373,Rural,Non-Border
+Potter,67.2,"2,367",48.7,555,55.4,"2,554",40.7,372,0500000US48375,Urban,Non-Border
+Presidio,57.1,32,*,**,42.8,226,--,0,0500000US48377,Rural,Border
+Rains,65.8,265,*,**,51.5,34,*,**,0500000US48379,Rural,Non-Border
+Randall,77,"4,454",56.6,163,67.1,"1,303",65.9,226,0500000US48381,Urban,Non-Border
+Reagan,69.5,57,*,**,49.5,105,*,**,0500000US48383,Rural,Non-Border
+Real,54.3,63,--,0,50.9,28,*,**,0500000US48385,Rural,Border
+Red River,69.2,306,44.3,47,41.3,31,*,**,0500000US48387,Rural,Non-Border
+Reeves,71.7,76,*,**,67.7,530,*,13,0500000US48389,Rural,Border
+Refugio,68.2,120,*,17,65,145,*,**,0500000US48391,Rural,Non-Border
+Roberts,77.5,31,--,0,*,**,--,0,0500000US48393,Rural,Non-Border
+Robertson,66.9,313,39.8,86,58.4,146,*,**,0500000US48395,Urban,Non-Border
+Rockwall Cnty,72,"2,392",56.4,137,54.3,566,67.1,159,0500000US48397,Urban,Non-Border
+Runnels,72.1,217,*,**,50.5,108,*,**,0500000US48399,Rural,Non-Border
+Rusk,65.3,"1,223",55.8,234,48,386,57.4,35,0500000US48401,Urban,Non-Border
+Sabine,61.3,225,*,18,72.4,21,*,**,0500000US48403,Rural,Non-Border
+San Augustine,66.3,189,44.1,56,61.4,43,*,**,0500000US48405,Rural,Non-Border
+San Jacinto,55.6,551,49.6,61,54.6,118,*,**,0500000US48407,Rural,Non-Border
+San Patricio,64.3,990,47.9,23,54,"1,620",78.3,54,0500000US48409,Urban,Non-Border
+San Saba,68.8,117,--,0,56,89,*,**,0500000US48411,Rural,Non-Border
+Schleicher,78.2,43,--,0,51.3,61,*,**,0500000US48413,Rural,Non-Border
+Scurry,58,324,*,13,39.8,251,*,**,0500000US48415,Rural,Non-Border
+Shackelford,66.9,97,*,**,*,14,*,**,0500000US48417,Rural,Non-Border
+Shelby,61.6,520,44,122,58.2,291,52.5,63,0500000US48419,Rural,Non-Border
+Sherman Cnty,79.3,65,0,0,52.7,58,*,**,0500000US48421,Rural,Non-Border
+Smith,63.6,"4,666",44,"1,058",39.7,"1,601",50,240,0500000US48423,Urban,Non-Border
+Somervell,69.8,199,*,**,56.7,68,*,**,0500000US48425,Urban,Non-Border
+Starr,*,13,*,**,53.1,"2,229",*,**,0500000US48427,Rural,Border
+Stephens,71.5,236,*,**,61.3,103,*,11,0500000US48429,Rural,Non-Border
+Sterling,79.5,31,--,0,*,17,--,0,0500000US48431,Rural,Non-Border
+Stonewall,67.3,37,--,0,*,**,*,**,0500000US48433,Rural,Non-Border
+Sutton,67.4,60,*,**,47.8,85,*,**,0500000US48435,Rural,Border
+Swisher,68,134,*,16,50.5,156,*,**,0500000US48437,Rural,Non-Border
+Tarrant,71,"39,695",51.2,"11,619",44,"21,893",57.2,"5,577",0500000US48439,Urban,Non-Border
+Taylor Cnty,73.3,"4,567",53.9,439,59,"1,671",59,227,0500000US48441,Urban,Non-Border
+Terrell Cnty,*,17,--,0,*,20,--,0,0500000US48443,Rural,Border
+Terry,53.4,171,*,**,45.1,287,*,**,0500000US48445,Rural,Non-Border
+Throckmorton,72.6,45,--,0,*,**,*,**,0500000US48447,Rural,Non-Border
+Titus,70.8,562,57.5,119,46.8,684,47.5,28,0500000US48449,Rural,Non-Border
+Tom Green,72.2,"2,910",54.9,118,56.6,"1,982",57.6,106,0500000US48451,Urban,Non-Border
+Travis,84.9,"26,155",66.9,"4,070",60.7,"21,358",79.8,"5,752",0500000US48453,Urban,Non-Border
+Trinity,64.9,323,50,31,50,47,*,**,0500000US48455,Rural,Non-Border
+Tyler Cnty,62.2,566,50.5,46,59.2,29,*,19,0500000US48457,Rural,Non-Border
+Upshur,59.7,"1,091",51.2,87,44.6,132,51.9,27,0500000US48459,Urban,Non-Border
+Upton,69.6,87,--,0,60.1,86,*,**,0500000US48461,Rural,Non-Border
+Uvalde Cnty,68.2,290,*,**,62.8,965,*,12,0500000US48463,Rural,Border
+Val Verde,51.6,316,*,18,33,"1,195",43.1,25,0500000US48465,Rural,Border
+Van Zandt,61.2,"1,371",*,18,42.7,178,43.3,29,0500000US48467,Rural,Non-Border
+Victoria Cnty,79.7,"1,944",56.4,154,66.5,"2,260",71.1,118,0500000US48469,Urban,Non-Border
+Walker,70.8,"1,158",60.9,392,63.7,463,54.5,55,0500000US48471,Rural,Non-Border
+Waller,73.5,771,55.1,248,61.6,805,64.7,33,0500000US48473,Urban,Non-Border
+Ward,72.2,267,76.2,32,70.2,335,*,11,0500000US48475,Rural,Non-Border
+Washington,71.8,671,52.4,185,41.7,228,60.8,31,0500000US48477,Rural,Non-Border
+Webb,88.7,518,*,12,75.5,"18,923",75.5,74,0500000US48479,Urban,Border
+Wharton,76.7,670,53.6,201,52,731,*,14,0500000US48481,Rural,Non-Border
+Wheeler,61.9,133,*,**,54.2,77,*,**,0500000US48483,Rural,Non-Border
+Wichita,80.3,"4,465",66.6,597,67.9,"1,397",74.4,276,0500000US48485,Urban,Non-Border
+Wilbarger,77.2,336,50,29,65.8,192,*,15,0500000US48487,Rural,Non-Border
+Willacy,56.8,25,*,**,61.9,887,*,**,0500000US48489,Rural,Border
+Williamson,84.3,"14,392",70.6,"1,189",72.7,"6,049",84.1,"2,591",0500000US48491,Urban,Non-Border
+Wilson,70.5,947,*,10,56.6,544,64.9,24,0500000US48493,Urban,Non-Border
+Winkler,74.1,149,*,**,64.5,271,*,**,0500000US48495,Rural,Non-Border
+Wise,67.2,"1,810",*,10,43.5,423,50,37,0500000US48497,Urban,Non-Border
+Wood,62.4,955,40,24,46.7,162,45.5,20,0500000US48499,Rural,Non-Border
+Yoakum,61.5,118,*,**,55.3,304,*,**,0500000US48501,Rural,Non-Border
+Young,77,624,*,**,57.1,169,*,14,0500000US48503,Rural,Non-Border
+Zapata,84,21,--,0,77,"1,002",*,**,0500000US48505,Rural,Border
+Zavala,70.9,39,*,**,67.4,627,--,0,0500000US48507,Rural,Border

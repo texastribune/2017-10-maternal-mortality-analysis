@@ -1,0 +1,4 @@
+category,count,births,deaths,prenatal_eligible,prenatal,race_female_white,race_female_black,race_female_hispanic,race_female_other,race_female_white_perc,race_female_black_perc,race_female_hispanic_perc,race_female_other_perc,mortality_rate,prenatal_rate
+OB hospital(s),109,1783217,543,25195137,7261139,23005352,3372198,1610960,1049714,42.82,12.34,39.1,5.73,30.45,65.16
+No OB hospital(s),145,140898,74,3835029,468793,1322022,111992,129663,82827,66.84,8.17,23.04,1.95,52.52,63.88
+Total,254,1924115,617,29030166,7729932,24327374,3484190,1740623,1132541,44.96,11.97,37.68,5.4,32.07,65.07

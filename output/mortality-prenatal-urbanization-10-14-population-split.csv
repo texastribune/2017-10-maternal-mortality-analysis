@@ -1,0 +1,4 @@
+category,count,births,deaths,prenatal_eligible,prenatal,race_female_white,race_female_black,race_female_hispanic,race_female_other,race_female_white_perc,race_female_black_perc,race_female_hispanic_perc,race_female_other_perc,mortality_rate,prenatal_rate
+Urban,82.0,1727809.0,524.0,24598953.0,7183754.0,22012694.0,3353714.0,1558585.0,1020673.0,43.04,12.57,38.52,5.87,30.33,65.49
+Rural,172.0,196306.0,93.0,4431213.0,546178.0,2314680.0,130476.0,182038.0,111868.0,59.7,7.36,31.18,1.76,47.38,61.45
+Total,254.0,1924115.0,617.0,29030166.0,7729932.0,24327374.0,3484190.0,1740623.0,1132541.0,44.96,11.97,37.68,5.4,32.07,65.07

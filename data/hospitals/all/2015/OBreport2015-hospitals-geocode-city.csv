@@ -1,0 +1,536 @@
+county,Hospital,City,State,"Pediatric Medical Surgical Care Beds","Obstetrics Levels","Obstetrics Beds","Neonatal Intensive Care Beds","Neonatal Intermediate Care Beds","Pediatric Intensive Care Beds","Total Births",Latitude,Longitude,"Accuracy Score","Accuracy Type",Number,Street,City,State,County,Zip,Country
+TAYLOR,"Abilene Regional Medical Center",Abilene,Texas,6,3,31,16,0,0,"1,427",32.576489,-99.665323,1,place,,,Abilene,TX,"Taylor County",79601,US
+DENTON,"Accel Rehabilitation Hospital of Plano",Plano,Texas,0,,0,0,0,0,0,33.056756,-96.730831,1,place,,,Plano,TX,"Collin County",75023,US
+BEXAR,"Acuity Hospital of South Texas","San Antonio",Texas,0,,0,0,0,0,0,29.468413,-98.528889,1,place,,,"San Antonio",TX,"Bexar County",78201,US
+GREGG,"Allegiance Specialty Hospital of Kilgore",Kilgore,Texas,0,,0,0,0,0,0,32.410306,-94.793392,1,place,,,Kilgore,TX,"Gregg County",75662,US
+HARRIS,"Altus Baytown Hospital",Baytown,Texas,0,,0,0,0,0,0,29.733283,-94.994123,1,place,,,Baytown,TX,"Harris County",77520,US
+JONES,"Anson General Hospital",Anson,Texas,0,,0,0,0,0,0,32.765623,-99.854766,1,place,,,Anson,TX,"Jones County",79501,US
+TRAVIS,"Arise Austin Medical Center",Austin,Texas,0,,0,0,0,0,0,30.326374,-97.771258,1,place,,,Austin,TX,"Travis County",73301,US
+MONTGOMERY,"Aspire Hospital LLC",Conroe,Texas,0,,0,0,0,0,0,30.307375,-95.438548,1,place,,,Conroe,TX,"Montgomery County",77301,US
+"FORT BEND","Atrium Medical Center",Stafford,Texas,0,,0,0,0,0,0,29.62431,-95.567968,1,place,,,Stafford,TX,"Fort Bend County",77477,US
+DENTON,"Atrium Medical Center at Corinth",Corinth,Texas,0,,0,0,0,0,0,31.372956,-96.003017,0.8,place,,,Corinth,TX,"Leon County",75831,US
+RUNNELS,"Ballinger Memorial Hospital District",Ballinger,Texas,0,,0,0,0,0,0,31.770615,-99.911547,1,place,,,Ballinger,TX,"Runnels County",76821,US
+BEXAR,"Baptist Emergency Hospital","San Antonio",Texas,0,,0,0,0,0,1,29.468413,-98.528889,1,place,,,"San Antonio",TX,"Bexar County",78201,US
+JEFFERSON,"Baptist Hospitals of Southeast Texas",Beaumont,Texas,14,2,25,6,6,3,"1,537",30.073712,-94.109705,1,place,,,Beaumont,TX,"Jefferson County",77701,US
+BEXAR,"Baptist Medical Center","San Antonio",Texas,25,3,157,106,109,NAV,"10,920",29.468413,-98.528889,1,place,,,"San Antonio",TX,"Bexar County",78201,US
+ORANGE,"Baptist Orange Hospital",Orange,Texas,2,,0,0,0,0,0,30.071743,-93.864976,1,place,,,Orange,TX,"Orange County",77630,US
+POTTER,"Baptist St. Anthony's Hospital",Amarillo,Texas,15,3,20,20,0,5,"2,098",35.20603,-101.839602,1,place,,,Amarillo,TX,"Potter County",79101,US
+HARRIS,"Bay Area Regional Medical Center",Webster,Texas,0,,0,0,0,0,0,29.53773,-95.11826,1,place,,,Webster,TX,"Harris County",77598,US
+HARRIS,"Bay Area Rehabilitation Hospital",Webster,Texas,0,,0,0,0,0,0,29.53773,-95.11826,1,place,,,Webster,TX,"Harris County",77598,US
+DENTON,"Baylor Emergency Medical Center",Aubrey,Texas,0,,0,0,0,0,0,33.278066,-97.01748,1,place,,,Aubrey,TX,"Denton County",76227,US
+ROCKWALL,"Baylor Emergency Medical Center",Rockwall,Texas,0,0,0,0,0,0,1,32.886,-96.409502,1,place,,,Rockwall,TX,"Rockwall County",75032,US
+TARRANT,"Baylor Emergency Medical Center",Burleson,Texas,0,,,0,0,0,0,32.492683,-97.264359,1,place,,,Burleson,TX,"Johnson County",76028,US
+DALLAS,"Baylor Heart and Vascular Center",Dallas,Texas,0,,0,0,0,0,0,32.781179,-96.790329,1,place,,,Dallas,TX,"Dallas County",75201,US
+DALLAS,"Baylor Institute for Rehabilitation",Dallas,Texas,0,,0,0,0,0,0,32.781179,-96.790329,1,place,,,Dallas,TX,"Dallas County",75201,US
+TARRANT,"Baylor Institute for Rehabilitation at Fort Worth","Fort Worth",Texas,0,,,0,0,0,0,32.771419,-97.291484,1,place,,,"Fort Worth",TX,"Tarrant County",76101,US
+COLLIN,"Baylor Institute for Rehabilitation at Frisco",Frisco,Texas,0,,0,0,0,0,0,33.146336,-96.856347,1,place,,,Frisco,TX,"Collin County",75034,US
+DALLAS,"Baylor Institute for Rehabilitation at Northwest Dallas",Dallas,Texas,0,,0,0,0,0,0,32.781179,-96.790329,1,place,,,Dallas,TX,"Dallas County",75201,US
+COLLIN,"Baylor Medical Center at Frisco",Frisco,Texas,0,2,23,8,0,0,"2,593",33.146336,-96.856347,1,place,,,Frisco,TX,"Collin County",75034,US
+DENTON,"Baylor Medical Center at Trophy Club","Trophy Club",Texas,0,,0,0,0,0,0,32.997901,-97.183625,0.8,place,,,"Trophy Club",TX,"Denton County",76262,US
+DALLAS,"Baylor Medical Center at Uptown",Dallas,Texas,0,,0,0,0,0,0,32.781179,-96.790329,1,place,,,Dallas,TX,"Dallas County",75201,US
+TARRANT,"Baylor Orthopedic and Spine Hospital at Arlington",Arlington,Texas,0,,,0,0,0,0,32.635563,-97.148829,1,place,,,Arlington,TX,"Tarrant County",76001,US
+TARRANT,"Baylor Scott & White All Saints Medical Center - Fort Worth","Fort Worth",Texas,0,3,78,23,40,0,"5,577",32.771419,-97.291484,1,place,,,"Fort Worth",TX,"Tarrant County",76101,US
+BELL,"Baylor Scott & White Continuing Care Hospital",Temple,Texas,0,,0,0,0,0,0,31.068306,-97.3047,1,place,,,Temple,TX,"Bell County",76501,US
+WILLIAMSON,"Baylor Scott & White Emergency Medical Center Cedar Park","Cedar Park",Texas,,,,,,,0,30.503949,-97.8242,1,place,,,"Cedar Park",TX,"Williamson County",78613,US
+WASHINGTON,"Baylor Scott & White Medical Center - Brenham",Brenham,Texas,0,1,5,0,0,0,379,30.216516,-96.385104,1,place,,,Brenham,TX,"Washington County",77833,US
+DENTON,"Baylor Scott & White Medical Center - Carrollton",Carrollton,Texas,0,3,14,6,0,0,"1,287",32.962473,-96.89817,1,place,,,Carrollton,TX,"Dallas County",75006,US
+BRAZOS,"Baylor Scott & White Medical Center - College Station","College Station",Texas,6,2,15,8,8,0,"1,170",30.609093,-96.325984,1,place,,,"College Station",TX,"Brazos County",77840,US
+DALLAS,"Baylor Scott & White Medical Center - Garland",Garland,Texas,0,,0,0,0,0,0,32.931523,-96.615821,1,place,,,Garland,TX,"Dallas County",75040,US
+TARRANT,"Baylor Scott & White Medical Center - Grapevine",Grapevine,Texas,0,3,52,22,0,0,"2,517",32.932843,-97.080802,1,place,,,Grapevine,TX,"Tarrant County",76051,US
+MCLENNAN,"Baylor Scott & White Medical Center - Hillcrest",Waco,Texas,24,2,32,30,0,0,"2,901",31.552011,-97.1382,1,place,,,Waco,TX,"McLennan County",76701,US
+DALLAS,"Baylor Scott & White Medical Center - Irving",Irving,Texas,0,2,33,0,10,0,"2,299",32.767268,-96.777626,1,place,,,Irving,TX,"Dallas County",75014,US
+LLANO,"Baylor Scott & White Medical Center - Llano",Llano,Texas,0,1,3,0,0,0,222,30.71514,-98.610863,1,place,,,Llano,TX,"Llano County",78643,US
+COLLIN,"Baylor Scott & White Medical Center - McKinney",McKinney,Texas,0,2,14,4,2,0,"1,870",33.141438,-96.588295,1,place,,,Mckinney,TX,"Collin County",75069,US
+COLLIN,"Baylor Scott & White Medical Center - Plano",Plano,Texas,0,,0,0,0,0,0,33.056756,-96.730831,1,place,,,Plano,TX,"Collin County",75023,US
+WILLIAMSON,"Baylor Scott & White Medical Center - Round Rock","Round Rock",Texas,0,1,10,0,0,0,544,30.501747,-97.647206,1,place,,,"Round Rock",TX,"Williamson County",78664,US
+WILLIAMSON,"Baylor Scott & White Medical Center - Taylor",Taylor,Texas,0,,0,0,0,0,0,30.581504,-97.393787,1,place,,,Taylor,TX,"Williamson County",76574,US
+ELLIS,"Baylor Scott & White Medical Center at Waxahachie",Waxahachie,Texas,0,1,10,0,0,0,212,32.376984,-96.843682,1,place,,,Waxahachie,TX,"Ellis County",75165,US
+GRAYSON,"Baylor Scott & White Surgical  Hospital at Sherman",Sherman,Texas,0,,0,0,0,0,0,33.604131,-96.550405,1,place,,,Sherman,TX,"Grayson County",75090,US
+TARRANT,"Baylor Surgical Hospital at Fort Worth","Fort Worth",Texas,0,,0,0,0,0,0,32.771419,-97.291484,1,place,,,"Fort Worth",TX,"Tarrant County",76101,US
+DALLAS,"Baylor Surgical Hospital at Las Colinas",Irving,Texas,0,,0,0,0,0,0,32.767268,-96.777626,1,place,,,Irving,TX,"Dallas County",75014,US
+DALLAS,"Baylor University Medical Center",Dallas,Texas,0,3,48,83,0,0,"4,660",32.781179,-96.790329,1,place,,,Dallas,TX,"Dallas County",75201,US
+HARRIS,"Bayshore Medical Center",Pasadena,Texas,0,1,66,14,0,0,"4,545",29.83399,-95.434241,1,place,,,Pasadena,TX,"Harris County",77501,US
+CHAMBERS,"Bayside Community Hospital",Anahuac,Texas,0,,0,0,0,0,0,29.662044,-94.592995,1,place,,,Anahuac,TX,"Chambers County",77514,US
+BREWSTER,"Big Bend Regional Medical Center",Alpine,Texas,0,1,5,0,0,0,182,30.357926,-103.66029,1,place,,,Alpine,TX,"Brewster County",79830,US
+MONTAGUE,"Bowie Memorial Hospital",Bowie,Texas,0,,0,0,0,0,0,33.530011,-97.856849,1,place,,,Bowie,TX,"Montague County",76230,US
+BRAZORIA,"Brazosport Regional Health System","Lake Jackson",Texas,NAV,1,10,0,0,0,528,29.03386,-95.43439,1,place,,,"Lake Jackson",TX,"Brazoria County",77566,US
+TERRY,"Brownfield Regional Medical Center",Brownfield,Texas,NAV,1,5,0,0,0,122,33.172013,-102.335299,1,place,,,Brownfield,TX,"Terry County",79316,US
+BROWN,"Brownwood Regional Medical Center",Brownwood,Texas,0,2,8,0,0,0,657,31.775393,-98.99153,1,place,,,Brownwood,TX,"Brown County",76801,US
+"SAN PATRICIO","Care Regional Medical Center","Aransas Pass",Texas,0,,0,0,0,0,0,27.873028,-97.092196,1,place,,,"Aransas Pass",TX,"San Patricio County",78335,US
+GRAYSON,"Carrus Rehabilitation Hospital",Sherman,Texas,0,,0,0,0,0,0,33.604131,-96.550405,1,place,,,Sherman,TX,"Grayson County",75090,US
+GRAYSON,"Carrus Specialty Hospital",Sherman,Texas,0,,0,0,0,0,0,33.604131,-96.550405,1,place,,,Sherman,TX,"Grayson County",75090,US
+WILLIAMSON,"Cedar Park Regional Medical Center","Cedar Park",Texas,8,2,20,0,8,0,"1,060",30.503949,-97.8242,1,place,,,"Cedar Park",TX,"Williamson County",78613,US
+COLLIN,"Centennial Medical Center",Frisco,Texas,20,2,20,14,0,0,714,33.146336,-96.856347,1,place,,,Frisco,TX,"Collin County",75034,US
+HAYS,"Central Texas Medical Center","San Marcos",Texas,0,1,20,9,0,0,832,29.972907,-97.997166,1,place,,,"San Marcos",TX,"Hays County",78666,US
+TRAVIS,"Central Texas Rehabilitation Hospital",Austin,Texas,0,,0,0,0,0,0,30.326374,-97.771258,1,place,,,Austin,TX,"Travis County",73301,US
+POLK,"CHI St Luke's Health - Memorial Livingston",Livingston,Texas,2,1,7,0,0,0,423,30.682947,-94.897605,1,place,,,Livingston,TX,"Polk County",77351,US
+HARRIS,"CHI St Luke's Health Baylor College of Medicine Medical Center",Houston,Texas,0,,0,0,0,0,0,29.813142,-95.309789,1,place,,,Houston,TX,"Harris County",77001,US
+"SAN AUGUSTINE","CHI St Luke's Health Memorial San Augustine","San Augustine",Texas,0,,0,0,,0,0,31.548122,-94.111751,1,place,,,"San Augustine",TX,"San Augustine County",75972,US
+ANGELINA,"CHI St Luke's Health Memorial Specialty Hospital",Lufkin,Texas,0,,0,0,0,0,0,31.301706,-94.641414,1,place,,,Lufkin,TX,"Angelina County",75901,US
+BEXAR,"Children's Hospital of San Antonio","San Antonio",Texas,59,3,16,45,0,20,844,29.468413,-98.528889,1,place,,,"San Antonio",TX,"Bexar County",78201,US
+DALLAS,"Children's Medical Center of Dallas",Dallas,Texas,343,,0,36,0,50,0,32.781179,-96.790329,1,place,,,Dallas,TX,"Dallas County",75201,US
+CHILDRESS,"Childress Regional Medical Center",Childress,Texas,0,1,6,0,0,0,183,34.4104,-100.236376,1,place,,,Childress,TX,"Childress County",79201,US
+HARDEMAN,"Chillicothe Hospital",Chillicothe,Texas,NAV,,0,0,0,0,0,34.25647,-99.51676,1,place,,,Chillicothe,TX,"Hardeman County",79225,US
+JEFFERSON,"CHRISTUS Dubuis Hospital of Beaumont",Beaumont,Texas,0,,0,0,0,0,0,30.073712,-94.109705,1,place,,,Beaumont,TX,"Jefferson County",77701,US
+BRAZOS,"CHRISTUS Dubuis Hospital of Bryan",Bryan,Texas,0,,0,0,0,0,0,30.639285,-96.362454,1,place,,,Bryan,TX,"Brazos County",77801,US
+BEXAR,"CHRISTUS Santa Rosa - Medical Center","San Antonio",Texas,0,2,12,0,0,0,"1,377",29.468413,-98.528889,1,place,,,"San Antonio",TX,"Bexar County",78201,US
+BEXAR,"CHRISTUS Santa Rosa Hospital - Alamo Heights","San Antonio",Texas,0,,0,0,0,0,0,29.468413,-98.528889,1,place,,,"San Antonio",TX,"Bexar County",78201,US
+COMAL,"CHRISTUS Santa Rosa Hospital - New Braunfels","New Braunfels",Texas,0,1,13,0,0,0,435,29.696878,-98.070726,1,place,,,"New Braunfels",TX,"Comal County",78130,US
+JASPER,"CHRISTUS Southeast Texas - Jasper Memorial",Jasper,Texas,2,1,6,0,0,0,334,30.867257,-93.997666,1,place,,,Jasper,TX,"Jasper County",75951,US
+JEFFERSON,"CHRISTUS Southeast Texas - St. Elizabeth & St. Mary",Beaumont,Texas,16,2,38,31,0,4,"2,357",30.073712,-94.109705,1,place,,,Beaumont,TX,"Jefferson County",77701,US
+"JIM WELLS","CHRISTUS Spohn Hospital Alice",Alice,Texas,0,1,8,0,0,0,417,27.703829,-98.055296,1,place,,,Alice,TX,"Jim Wells County",78332,US
+BEE,"CHRISTUS Spohn Hospital Beeville",Beeville,Texas,0,1,9,0,0,0,288,28.488192,-97.730956,1,place,,,Beeville,TX,"Bee County",78102,US
+NUECES,"CHRISTUS Spohn Hospital Corpus Christi","Corpus Christi",Texas,0,2,17,24,0,0,"2,632",27.797802,-97.399067,1,place,,,"Corpus Christi",TX,"Nueces County",78401,US
+KLEBERG,"CHRISTUS Spohn Hospital Kleberg",Kingsville,Texas,0,1,8,0,0,0,310,27.422876,-97.84068,1,place,,,Kingsville,TX,"Kleberg County",78363,US
+BOWIE,"CHRISTUS St. Michael Health System",Texarkana,Texas,15,2,28,8,0,0,"1,534",33.411321,-94.177354,1,place,,,Texarkana,TX,"Bowie County",75501,US
+BOWIE,"CHRISTUS St. Michael Rehabilitation Hospital",Texarkana,Texas,0,0,0,0,0,0,0,33.411321,-94.177354,1,place,,,Texarkana,TX,"Bowie County",75501,US
+VICTORIA,"Citizens Medical Center",Victoria,Texas,3,2,11,12,0,0,872,28.804947,-96.984711,1,place,,,Victoria,TX,"Victoria County",77901,US
+CLAY,"Clay County Memorial Hospital",Henrietta,Texas,0,,0,0,0,0,0,33.906101,-98.201732,1,place,,,Henrietta,TX,"Clay County",76365,US
+HARRIS,"Clear Lake Regional Medical Center",Webster,Texas,17,2,0,26,10,17,"4,032",29.53773,-95.11826,1,place,,,Webster,TX,"Harris County",77598,US
+COCHRAN,"Cochran Memorial Hospital",Morton,Texas,0,,0,0,0,0,0,33.667497,-102.690997,1,place,,,Morton,TX,"Cochran County",79346,US
+SCURRY,"Cogdell Memorial Hospital",Snyder,Texas,0,1,3,0,0,0,160,32.745073,-100.917479,1,place,,,Snyder,TX,"Scurry County",79549,US
+COLEMAN,"Coleman County Medical Center",Coleman,Texas,0,,0,0,0,0,25,31.896653,-99.400197,1,place,,,Coleman,TX,"Coleman County",76834,US
+BRAZOS,"College Station Medical Center","College Station",Texas,10,2,24,13,0,0,"1,306",30.609093,-96.325984,1,place,,,"College Station",TX,"Brazos County",77840,US
+COLLINGSWORTH,"Collingsworth General Hospital",Wellington,Texas,0,,0,0,0,0,0,34.852623,-100.21447,1,place,,,Wellington,TX,"Collingsworth County",79095,US
+COLLIN,"Columbia Medical Center of McKinney Subsidiary, L.P.",McKinney,Texas,0,2,18,7,0,0,"1,152",33.141438,-96.588295,1,place,,,Mckinney,TX,"Collin County",75069,US
+COLORADO,"Columbus Community Hospital",Columbus,Texas,0,1,6,0,0,0,227,29.70662,-96.53969,1,place,,,Columbus,TX,"Colorado County",78934,US
+COMANCHE,"Comanche County Medical Center",Comanche,Texas,0,,0,0,0,0,0,31.979672,-98.513844,1,place,,,Comanche,TX,"Comanche County",76442,US
+CONCHO,"Concho County Hospital",Eden,Texas,0,,0,0,0,0,0,31.174061,-99.876368,1,place,,,Eden,TX,"Concho County",76837,US
+WILSON,"Connally Memorial Medical Center",Floresville,Texas,0,,0,0,0,0,2,29.162771,-98.175887,1,place,,,Floresville,TX,"Wilson County",78114,US
+MONTGOMERY,"Conroe Regional Medical Center",Conroe,Texas,NAV,2,10,5,16,,"1,380",30.307375,-95.438548,1,place,,,Conroe,TX,"Montgomery County",77301,US
+TAYLOR,"ContinueCARE Hospital at Hendrick Medical Center",Abilene,Texas,0,,0,0,0,0,0,32.576489,-99.665323,1,place,,,Abilene,TX,"Taylor County",79601,US
+MIDLAND,"Continuecare Hospital of Midland",Midland,Texas,0,,0,0,0,0,0,31.992384,-102.081464,1,place,,,Midland,TX,"Midland County",79701,US
+TARRANT,"Cook Children's Medical Center","Fort Worth",Texas,194,,0,80,0,33,0,32.771419,-97.291484,1,place,,,"Fort Worth",TX,"Tarrant County",76101,US
+TARRANT,"Cook Children's Northeast Hospital",Hurst,Texas,3,,0,0,0,0,0,32.8172,-97.180586,1,place,,,Hurst,TX,"Tarrant County",76053,US
+HARTLEY,"Coon Memorial Hospital and Home",Dalhart,Texas,0,1,2,0,0,0,153,36.277826,-102.602022,1,place,,,Dalhart,TX,"Dallam County",79022,US
+MONTGOMERY,"Cornerstone Hospital Conroe",Conroe,Texas,0,,0,0,0,0,0,30.307375,-95.438548,1,place,,,Conroe,TX,"Montgomery County",77301,US
+HARRIS,"Cornerstone Hospital Medical Center",Houston,Texas,0,,0,0,0,0,0,29.813142,-95.309789,1,place,,,Houston,TX,"Harris County",77001,US
+TRAVIS,"Cornerstone Hospital of Austin",Austin,Texas,0,,0,0,0,0,0,30.326374,-97.771258,1,place,,,Austin,TX,"Travis County",73301,US
+HARRIS,"Cornerstone Hospital of Houston - Clear Lake",Webster,Texas,0,,0,0,0,0,0,29.53773,-95.11826,1,place,,,Webster,TX,"Harris County",77598,US
+HIDALGO,"Cornerstone Regional Hospital",Edinburg,Texas,,,,,,,0,26.280689,-98.183295,1,place,,,Edinburg,TX,"Hidalgo County",78539,US
+NUECES,"Corpus Christi Rehabilitation Hospital","Corpus Christi",Texas,0,,0,0,0,0,0,27.797802,-97.399067,1,place,,,"Corpus Christi",TX,"Nueces County",78401,US
+CORYELL,"Coryell Memorial Hospital",Gatesville,Texas,0,,0,0,0,0,0,31.417739,-97.833033,1,place,,,Gatesville,TX,"Coryell County",76528,US
+LUBBOCK,"Covenant Children's Hospital",Lubbock,Texas,39,,0,34,NAV,NAV,0,33.588771,-101.850445,1,place,,,Lubbock,TX,"Lubbock County",79401,US
+HOCKLEY,"Covenant Hospital Levelland",Levelland,Texas,,1,4,,,,214,33.606901,-102.345939,1,place,,,Levelland,TX,"Hockley County",79336,US
+HALE,"Covenant Hospital Plainview",Plainview,Texas,0,,12,0,0,0,462,34.169757,-101.73385,1,place,,,Plainview,TX,"Hale County",79072,US
+LUBBOCK,"Covenant Medical Center",Lubbock,Texas,0,3,105,0,0,0,"2,553",33.588771,-101.850445,1,place,,,Lubbock,TX,"Lubbock County",79401,US
+LUBBOCK,"Covenant Specialty Hospital",Lubbock,Texas,0,,0,0,0,0,0,33.588771,-101.850445,1,place,,,Lubbock,TX,"Lubbock County",79401,US
+CRANE,"Crane Memorial Hospital",Crane,Texas,0,,0,0,0,0,0,31.39736,-102.35014,1,place,,,Crane,TX,"Crane County",79731,US
+DALLAS,"Crescent Medical Center Lancaster",Lancaster,Texas,0,,0,0,0,0,0,32.617663,-96.778058,1,place,,,Lancaster,TX,"Dallas County",75134,US
+CROSBY,"Crosbyton Clinic Hospital",Crosbyton,Texas,0,,0,0,0,0,0,33.616133,-101.306058,1,place,,,Crosbyton,TX,"Crosby County",79322,US
+"DE WITT","Cuero Community Hospital",Cuero,Texas,0,1,5,0,0,0,109,29.093677,-97.260776,1,place,,,Cuero,TX,"DeWitt County",77954,US
+CULBERSON,"Culberson Hospital","Van Horn",Texas,0,,0,0,0,0,0,31.03912,-104.824473,1,place,,,"Van Horn",TX,"Culberson County",79855,US
+HARRIS,"Cypress Fairbanks Medical Center",Houston,Texas,7,2,18,25,0,0,"3,641",29.813142,-95.309789,1,place,,,Houston,TX,"Harris County",77001,US
+DALLAS,"Dallas Medical Center",Dallas,Texas,0,1,12,0,0,0,830,32.781179,-96.790329,1,place,,,Dallas,TX,"Dallas County",75201,US
+DALLAS,"Dallas Regional Medical Center",Mesquite,Texas,0,,0,0,0,0,0,32.777779,-96.62315,1,place,,,Mesquite,TX,"Dallas County",75149,US
+TRAVIS,"Dell Children's Medical Center",Austin,Texas,144,,0,32,,24,0,30.326374,-97.771258,1,place,,,Austin,TX,"Travis County",73301,US
+DENTON,"Denton Regional Medical Center",Denton,Texas,0,2,12,0,0,0,501,33.220974,-97.146038,1,place,,,Denton,TX,"Denton County",76201,US
+VICTORIA,"DeTar Hospital Navarro",Victoria,Texas,26,2,54,9,0,0,"1,385",28.804947,-96.984711,1,place,,,Victoria,TX,"Victoria County",77901,US
+DIMMIT,"Dimmit County Memorial Hospital","Carrizo Springs",Texas,6,1,4,0,0,0,236,28.507128,-99.726018,1,place,,,"Carrizo Springs",TX,"Dimmit County",78834,US
+HIDALGO,"Doctor's Hospital at Renaissance",Edinburg,Texas,36,2,84,24,39,12,"9,094",26.280689,-98.183295,1,place,,,Edinburg,TX,"Hidalgo County",78539,US
+HARRIS,"Doctors Hospital - Tidwell",Houston,Texas,0,,0,0,0,0,0,29.813142,-95.309789,1,place,,,Houston,TX,"Harris County",77001,US
+DALLAS,"Doctors Hospital at White Rock Lake",Dallas,Texas,0,1,10,4,NAV,0,"1,242",32.781179,-96.790329,1,place,,,Dallas,TX,"Dallas County",75201,US
+WEBB,"Doctors Hospital of Laredo",Laredo,Texas,31,2,42,20,0,0,"2,574",27.515879,-99.494078,1,place,,,Laredo,TX,"Webb County",78040,US
+NUECES,"Driscoll Children's Hospital","Corpus Christi",Texas,101,,0,41,0,20,0,27.797802,-97.399067,1,place,,,"Corpus Christi",TX,"Nueces County",78401,US
+LAMAR,"Dubuis Hospital of Paris",Paris,Texas,0,,0,0,0,0,0,33.655162,-95.605194,1,place,,,Paris,TX,"Lamar County",75460,US
+SMITH,"East Texas Medical Center",Tyler,Texas,5,2,16,0,6,0,704,32.321937,-95.302223,1,place,,,Tyler,TX,"Smith County",75701,US
+PANOLA,"East Texas Medical Center - Carthage",Carthage,Texas,0,,0,0,0,0,0,32.183133,-94.309189,1,place,,,Carthage,TX,"Panola County",75633,US
+FREESTONE,"East Texas Medical Center - Fairfield",Fairfield,Texas,0,,0,0,0,0,0,31.767543,-96.138094,1,place,,,Fairfield,TX,"Freestone County",75840,US
+WOOD,"East Texas Medical Center - Quitman",Quitman,Texas,0,,0,0,0,0,0,32.782264,-95.44337,1,place,,,Quitman,TX,"Wood County",75783,US
+HENDERSON,"East Texas Medical Center Athens",Athens,Texas,NAV,1,17,0,0,0,877,32.188097,-95.882391,1,place,,,Athens,TX,"Henderson County",75751,US
+RUSK,"East Texas Medical Center Henderson",Henderson,Texas,0,1,14,0,0,0,232,32.213061,-94.783436,1,place,,,Henderson,TX,"Rusk County",75652,US
+CHEROKEE,"East Texas Medical Center Jacksonville",Jacksonville,Texas,0,1,13,0,0,0,478,31.96378,-95.2705,1,place,,,Jacksonville,TX,"Cherokee County",75766,US
+CAMP,"East Texas Medical Center Pittsburg",Pittsburg,Texas,1,,,,,,0,32.998041,-94.952278,1,place,,,Pittsburg,TX,"Camp County",75686,US
+SMITH,"East Texas Medical Center Rehabilitation Hospital",Tyler,Texas,0,,0,0,0,0,0,32.321937,-95.302223,1,place,,,Tyler,TX,"Smith County",75701,US
+SMITH,"East Texas Medical Center Specialty Hospital",Tyler,Texas,0,,0,0,0,0,0,32.321937,-95.302223,1,place,,,Tyler,TX,"Smith County",75701,US
+TRINITY,"East Texas Medical Center Trinity",Trinity,Texas,0,,0,0,0,0,0,30.910161,-95.312168,1,place,,,Trinity,TX,"Trinity County",75862,US
+EASTLAND,"Eastland Memorial Hospital",Eastland,Texas,0,,0,0,0,0,2,32.403972,-98.777973,1,place,,,Eastland,TX,"Eastland County",76448,US
+HIDALGO,"Edinburg Regional Medical Center",Edinburg,Texas,97,1,79,46,0,29,"1,666",26.280689,-98.183295,1,place,,,Edinburg,TX,"Hidalgo County",78539,US
+WHARTON,"El Campo Memorial Hospital","El Campo",Texas,0,,0,0,0,0,0,29.19664,-96.26969,1,place,,,"El Campo",TX,"Wharton County",77437,US
+"EL PASO","El Paso Children's Hospital","El Paso",Texas,26,,0,24,26,22,0,31.763608,-106.484592,1,place,,,"El Paso",TX,"El Paso County",79901,US
+"EL PASO","El Paso LTAC Hospital","El Paso",Texas,0,,0,0,0,0,0,31.763608,-106.484592,1,place,,,"El Paso",TX,"El Paso County",79901,US
+"EL PASO","El Paso Specialty Hospital","El Paso",Texas,0,,0,0,0,0,0,31.763608,-106.484592,1,place,,,"El Paso",TX,"El Paso County",79901,US
+WICHITA,"Electra Memorial Hospital",Electra,Texas,0,,0,0,0,0,0,34.02926,-98.91896,1,place,,,Electra,TX,"Wichita County",76360,US
+HARRIS,"Emerus Community Hospital",Tomball,Texas,0,,0,0,0,0,0,30.094886,-95.585826,1,place,,,Tomball,TX,"Harris County",77375,US
+"FORT BEND","Emerus Hospital","Sugar Land",Texas,0,,0,0,0,0,0,29.620312,-95.605693,1,place,,,"Sugar Land",TX,"Fort Bend County",77478,US
+ELLIS,"Ennis Regional Medical Center",Ennis,Texas,0,1,10,0,0,0,489,32.333778,-96.63479,1,place,,,Ennis,TX,"Ellis County",75119,US
+TARRANT,"Ethicus Hospital DFW LLC",Grapevine,Texas,0,,0,0,0,0,0,32.932843,-97.080802,1,place,,,Grapevine,TX,"Tarrant County",76051,US
+JACK,"Faith Community Hospital",Jacksboro,Texas,0,1,1,0,0,0,45,33.246805,-98.264241,1,place,,,Jacksboro,TX,"Jack County",76458,US
+FALLS,"Falls Community Hospital and Clinic",Marlin,Texas,0,,0,0,0,0,0,31.249621,-96.885602,1,place,,,Marlin,TX,"Falls County",76661,US
+HARRIS,"First Nobilis Hospital",Bellaire,Texas,0,,0,0,0,0,0,29.704019,-95.460905,1,place,,,Bellaire,TX,"Harris County",77401,US
+FISHER,"Fisher County Hospital District",Rotan,Texas,0,,0,0,0,0,0,32.837949,-100.489193,1,place,,,Rotan,TX,"Fisher County",79546,US
+DALLAS,"Forest Park Medical Center",Dallas,Texas,0,,0,0,0,0,0,32.781179,-96.790329,1,place,,,Dallas,TX,"Dallas County",75201,US
+MAVERICK,"Fort Duncan Regional Medical Center","Eagle Pass",Texas,6,1,14,0,0,0,"1,265",28.781057,-100.312766,1,place,,,"Eagle Pass",TX,"Maverick County",78852,US
+"EL PASO","Foundation Surgical Hospital of El Paso","El Paso",Texas,0,,0,,0,0,0,31.763608,-106.484592,1,place,,,"El Paso",TX,"El Paso County",79901,US
+BEXAR,"Foundation Surgical Hospital of San Antonio","San Antonio",Texas,0,,0,0,0,0,0,29.468413,-98.528889,1,place,,,"San Antonio",TX,"Bexar County",78201,US
+FRIO,"Frio Regional Hospital",Pearsall,Texas,0,1,2,0,0,0,132,28.867782,-99.108227,1,place,,,Pearsall,TX,"Frio County",78061,US
+SOMERVELL,"Glen Rose Medical Center","Glen Rose",Texas,0,,0,0,0,0,2,32.210812,-97.792155,1,place,,,"Glen Rose",TX,"Somervell County",76043,US
+HUTCHINSON,"Golden Plains Community Hospital",Borger,Texas,NAV,1,7,0,0,0,298,35.706837,-101.398793,1,place,,,Borger,TX,"Hutchinson County",79007,US
+GREGG,"Good Shepherd Medical Center",Longview,Texas,19,2,43,13,18,0,"2,014",32.517846,-94.730285,1,place,,,Longview,TX,"Gregg County",75601,US
+HARRISON,"Good Shepherd Medical Center - Marshall",Marshall,Texas,7,1,NAV,0,0,0,528,32.538112,-94.406228,1,place,,,Marshall,TX,"Harrison County",75670,US
+BOSQUE,"Goodall-Witcher Hospital",Clifton,Texas,0,1,2,0,0,0,72,31.791801,-97.520315,1,place,,,Clifton,TX,"Bosque County",76634,US
+LUBBOCK,"Grace Medical Center",Lubbock,Texas,0,,0,0,0,0,0,33.588771,-101.850445,1,place,,,Lubbock,TX,"Lubbock County",79401,US
+YOUNG,"Graham Regional Medical Center",Graham,Texas,NAV,2,10,0,0,0,216,33.092674,-98.64403,1,place,,,Graham,TX,"Young County",76450,US
+GUADALUPE,"Guadalupe Regional Medical Center",Seguin,Texas,0,,14,,0,0,934,29.578734,-97.951829,1,place,,,Seguin,TX,"Guadalupe County",78155,US
+HAMILTON,"Hamilton General Hospital",Hamilton,Texas,0,,0,0,0,0,0,31.671399,-98.107585,1,place,,,Hamilton,TX,"Hamilton County",76531,US
+YOUNG,"Hamilton Hospital",Olney,Texas,1,1,1,0,0,0,39,33.361214,-98.779466,1,place,,,Olney,TX,"Young County",76374,US
+JONES,"Hamlin Memorial Hospital",Hamlin,Texas,0,,0,0,0,0,0,32.88483,-100.12649,1,place,,,Hamlin,TX,"Jones County",79520,US
+HANSFORD,"Hansford County Hospital",Spearman,Texas,0,,0,0,0,0,0,36.226446,-101.294059,1,place,,,Spearman,TX,"Hansford County",79081,US
+HARDEMAN,"Hardeman County Memorial Hospital",Quanah,Texas,0,,0,0,0,0,0,34.39086,-99.857216,1,place,,,Quanah,TX,"Hardeman County",79252,US
+CAMERON,"Harlingen Medical Center",Harlingen,Texas,0,1,16,0,0,0,793,26.255523,-97.667502,1,place,,,Harlingen,TX,"Cameron County",78550,US
+HARRIS,"Harris Health System Ben Taub Hospital",Houston,Texas,5,1,76,40,48,0,"6,683",29.813142,-95.309789,1,place,,,Houston,TX,"Harris County",77001,US
+HASKELL,"Haskell Memorial Hospital",Haskell,Texas,0,,0,0,0,0,0,33.207016,-99.717417,1,place,,,Haskell,TX,"Haskell County",79521,US
+HARRIS,"Healthbridge Children's Hospital - Houston Ltd.",Houston,Texas,37,,0,0,0,0,0,29.813142,-95.309789,1,place,,,Houston,TX,"Harris County",77001,US
+TARRANT,"HEALTHSOUTH City View Rehabilitation Hospital","Fort Worth",Texas,0,,0,0,0,0,0,32.771419,-97.291484,1,place,,,"Fort Worth",TX,"Tarrant County",76101,US
+COLLIN,"HEALTHSOUTH Plano Rehabilitation Hospital",Plano,Texas,0,,0,0,0,0,0,33.056756,-96.730831,1,place,,,Plano,TX,"Collin County",75023,US
+TARRANT,"HEALTHSOUTH Rehabilitation Hospital of Arlington",Arlington,Texas,0,,0,0,0,0,0,32.635563,-97.148829,1,place,,,Arlington,TX,"Tarrant County",76001,US
+TRAVIS,"HEALTHSOUTH Rehabilitation Hospital of Austin",Austin,Texas,0,,0,0,0,0,0,30.326374,-97.771258,1,place,,,Austin,TX,"Travis County",73301,US
+JEFFERSON,"HEALTHSOUTH Rehabilitation Hospital of Beaumont",Beaumont,Texas,0,,0,0,0,0,0,30.073712,-94.109705,1,place,,,Beaumont,TX,"Jefferson County",77701,US
+HARRIS,"HEALTHSOUTH Rehabilitation Hospital of Cypress",Houston,Texas,0,,0,0,0,0,0,29.813142,-95.309789,1,place,,,Houston,TX,"Harris County",77001,US
+TARRANT,"HEALTHSOUTH Rehabilitation Hospital of Fort Worth","Fort Worth",Texas,0,,0,0,0,0,0,32.771419,-97.291484,1,place,,,"Fort Worth",TX,"Tarrant County",76101,US
+HARRIS,"HEALTHSOUTH Rehabilitation Hospital of Humble",Humble,Texas,0,,0,0,0,0,0,29.83399,-95.434241,1,place,,,Humble,TX,"Harris County",77325,US
+MIDLAND,"HEALTHSOUTH Rehabilitation Hospital of Midland/Odessa",Midland,Texas,0,,0,0,0,0,0,31.992384,-102.081464,1,place,,,Midland,TX,"Midland County",79701,US
+BOWIE,"HEALTHSOUTH Rehabilitation Hospital of Texarkana",Texarkana,Texas,0,,0,0,0,0,0,33.411321,-94.177354,1,place,,,Texarkana,TX,"Bowie County",75501,US
+WICHITA,"HEALTHSOUTH Rehabilitation Hospital of Wichita Falls","Wichita Falls",Texas,0,,0,0,0,0,0,33.905544,-98.479881,1,place,,,"Wichita Falls",TX,"Wichita County",76301,US
+MONTGOMERY,"HEALTHSOUTH Rehabilitation Hospital The Woodlands",Conroe,Texas,0,,0,0,0,0,0,30.307375,-95.438548,1,place,,,Conroe,TX,"Montgomery County",77301,US
+BEXAR,"HEALTHSOUTH Rehabilitation Institute of San Antonio","San Antonio",Texas,0,,0,0,0,0,0,29.468413,-98.528889,1,place,,,"San Antonio",TX,"Bexar County",78201,US
+"FORT BEND","HEALTHSOUTH Sugar Land Rehabilitation Hospital","Sugar Land",Texas,0,,0,0,0,0,0,29.620312,-95.605693,1,place,,,"Sugar Land",TX,"Fort Bend County",77478,US
+MCCULLOCH,"Heart of Texas Healthcare System",Brady,Texas,0,,0,0,0,0,0,31.150939,-99.337237,1,place,,,Brady,TX,"McCulloch County",76825,US
+HEMPHILL,"Hemphill County Hospital",Canadian,Texas,2,,0,0,0,0,0,35.904503,-100.384093,1,place,,,Canadian,TX,"Hemphill County",79014,US
+TAYLOR,"Hendrick Medical Center",Abilene,Texas,20,2,27,0,14,3,"1,328",32.576489,-99.665323,1,place,,,Abilene,TX,"Taylor County",79601,US
+"DEAF SMITH","Hereford Regional Medical Center",Hereford,Texas,0,2,11,0,0,0,348,34.966095,-102.31309,1,place,,,Hereford,TX,"Deaf Smith County",79045,US
+"EL PASO","Highlands Rehabilitation Hospital","El Paso",Texas,0,,0,0,0,0,0,31.763608,-106.484592,1,place,,,"El Paso",TX,"El Paso County",79901,US
+GILLESPIE,"Hill Country Memorial Hospital",Fredericksburg,Texas,,1,10,0,0,0,476,30.313385,-98.8936,1,place,,,Fredericksburg,TX,"Gillespie County",78624,US
+HILL,"Hill Regional Hospital",Hillsboro,Texas,NAV,1,13,0,0,NAV,207,31.937903,-97.057661,1,place,,,Hillsboro,TX,"Hill County",76645,US
+HARRIS,"HopeBridge Hospital",Houston,Texas,0,,0,0,0,0,0,29.813142,-95.309789,1,place,,,Houston,TX,"Harris County",77001,US
+HOPKINS,"Hopkins County Memorial Hospital","Sulphur Springs",Texas,0,2,6,0,4,0,732,33.126435,-95.600838,1,place,,,"Sulphur Springs",TX,"Hopkins County",75482,US
+HARRIS,"Houston Methodist Hosptial",Houston,Texas,0,2,11,NAV,6,0,"1,026",29.813142,-95.309789,1,place,,,Houston,TX,"Harris County",77001,US
+HARRIS,"Houston Methodist San Jacinto Hospital",Baytown,Texas,0,2,20,0,8,0,"1,641",29.733283,-94.994123,1,place,,,Baytown,TX,"Harris County",77520,US
+HARRIS,"Houston Methodist St. Catherine Hospital",Katy,Texas,0,,0,0,0,0,0,29.837562,-95.733756,1,place,,,Katy,TX,"Harris County",77449,US
+HARRIS,"Houston Methodist St. John Hospital","Nassau Bay",Texas,0,1,14,0,5,0,629,29.544675,-95.091041,0.8,place,,,"Nassau Bay",TX,"Harris County",77058,US
+"FORT BEND","Houston Methodist Sugar Land Hospital","Sugar Land",Texas,0,2,38,0,9,0,"3,358",29.620312,-95.605693,1,place,,,"Sugar Land",TX,"Fort Bend County",77478,US
+HARRIS,"Houston Methodist West  Hospital",Houston,Texas,0,2,35,0,14,0,"2,912",29.813142,-95.309789,1,place,,,Houston,TX,"Harris County",77001,US
+HARRIS,"Houston Methodist Willowbrook Hospital",Houston,Texas,0,3,54,10,12,,"3,433",29.813142,-95.309789,1,place,,,Houston,TX,"Harris County",77001,US
+HARRIS,"Houston Northwest Medical Center",Houston,Texas,5,2,28,10,0,0,"4,473",29.813142,-95.309789,1,place,,,Houston,TX,"Harris County",77001,US
+HARRIS,"Houston Physicians' Hospital",Webster,Texas,NAV,,0,0,0,0,0,29.53773,-95.11826,1,place,,,Webster,TX,"Harris County",77598,US
+HARRIS,"Humble Surgical Hospital",Humble,Texas,0,,0,0,0,0,0,29.83399,-95.434241,1,place,,,Humble,TX,"Harris County",77325,US
+HUNT,"Hunt Regional Community Hospital",Commerce,Texas,,,,,,,0,33.289045,-95.976965,1,place,,,Commerce,TX,"Hunt County",75428,US
+HUNT,"Hunt Regional Medical Center Greenville",Greenville,Texas,0,2,19,6,7,0,992,33.189011,-96.10887,1,place,,,Greenville,TX,"Hunt County",75401,US
+WALKER,"Huntsville Memorial Hospital",Huntsville,Texas,3,2,5,0,0,0,470,30.846986,-95.597029,1,place,,,Huntsville,TX,"Walker County",77320,US
+HARRIS,"Icon Hospital, LLP",Humble,Texas,0,,0,0,0,0,0,29.83399,-95.434241,1,place,,,Humble,TX,"Harris County",77325,US
+DENTON,"Integrity Transitional Hospital",Denton,Texas,0,,0,0,0,0,0,33.220974,-97.146038,1,place,,,Denton,TX,"Denton County",76201,US
+PECOS,"Iraan General Hospital",Iraan,Texas,0,,0,0,0,0,0,30.914993,-101.899569,1,place,,,Iraan,TX,"Pecos County",79744,US
+JACKSON,"Jackson County Hospital",Edna,Texas,0,,0,0,0,0,0,29.003797,-96.68519,1,place,,,Edna,TX,"Jackson County",77957,US
+TARRANT,"John Peter Smith Hospital","Fort Worth",Texas,4,3,29,35,0,0,"4,698",32.771419,-97.291484,1,place,,,"Fort Worth",TX,"Tarrant County",76101,US
+JEFFERSON,"Kate Dishman Rehabilitation Hospital",Beaumont,Texas,0,,0,0,0,0,0,30.073712,-94.109705,1,place,,,Beaumont,TX,"Jefferson County",77701,US
+WICHITA,"Kell West Regional Hospital","Wichita Falls",Texas,0,,0,0,0,0,0,33.905544,-98.479881,1,place,,,"Wichita Falls",TX,"Wichita County",76301,US
+KIMBLE,"Kimble Hospital",Junction,Texas,0,,0,0,0,0,0,30.49687,-99.776055,1,place,,,Junction,TX,"Kimble County",76849,US
+DALLAS,"Kindred Hospital - Dallas",Dallas,Texas,0,,0,0,0,0,,32.781179,-96.790329,1,place,,,Dallas,TX,"Dallas County",75201,US
+TARRANT,"Kindred Hospital - Fort Worth","Fort Worth",Texas,0,,0,0,0,0,0,32.771419,-97.291484,1,place,,,"Fort Worth",TX,"Tarrant County",76101,US
+TARRANT,"Kindred Hospital - Mansfield",Mansfield,Texas,0,,0,0,0,0,0,32.56319,-97.14168,1,place,,,Mansfield,TX,"Tarrant County",76063,US
+BEXAR,"Kindred Hospital - San Antonio","San Antonio",Texas,0,,0,0,0,0,0,29.468413,-98.528889,1,place,,,"San Antonio",TX,"Bexar County",78201,US
+TARRANT,"Kindred Hospital - Tarrant County",Arlington,Texas,0,,0,0,0,0,0,32.635563,-97.148829,1,place,,,Arlington,TX,"Tarrant County",76001,US
+TARRANT,"Kindred Hospital - Tarrant County","Fort Worth",Texas,0,,0,0,0,0,0,32.771419,-97.291484,1,place,,,"Fort Worth",TX,"Tarrant County",76101,US
+DALLAS,"Kindred Hospital - White Rock",Dallas,Texas,0,,0,0,0,0,0,32.781179,-96.790329,1,place,,,Dallas,TX,"Dallas County",75201,US
+HARRIS,"Kindred Hospital Bay Area",Pasadena,Texas,0,,0,0,0,0,0,29.83399,-95.434241,1,place,,,Pasadena,TX,"Harris County",77501,US
+HARRIS,"Kindred Hospital Clear Lake",Webster,Texas,0,,0,0,0,0,0,29.53773,-95.11826,1,place,,,Webster,TX,"Harris County",77598,US
+DALLAS,"Kindred Hospital Dallas Central",Dallas,Texas,0,,0,0,0,0,0,32.781179,-96.790329,1,place,,,Dallas,TX,"Dallas County",75201,US
+"EL PASO","Kindred Hospital El Paso","El Paso",Texas,0,,0,0,0,0,0,31.763608,-106.484592,1,place,,,"El Paso",TX,"El Paso County",79901,US
+HARRIS,"Kindred Hospital Houston Medical Center",Houston,Texas,0,,0,0,0,0,0,29.813142,-95.309789,1,place,,,Houston,TX,"Harris County",77001,US
+HARRIS,"Kindred Hospital Houston Northwest",Houston,Texas,0,,0,0,0,0,0,29.813142,-95.309789,1,place,,,Houston,TX,"Harris County",77001,US
+"FORT BEND","Kindred Hospital Sugar Land","Sugar Land",Texas,0,,0,0,0,0,0,29.620312,-95.605693,1,place,,,"Sugar Land",TX,"Fort Bend County",77478,US
+HARRIS,"Kindred Hospital Tomball",Tomball,Texas,0,,0,0,0,0,0,30.094886,-95.585826,1,place,,,Tomball,TX,"Harris County",77375,US
+TARRANT,"Kindred Rehabilitation Hospital Arlington",Arlington,Texas,0,,0,0,0,0,0,32.635563,-97.148829,1,place,,,Arlington,TX,"Tarrant County",76001,US
+HARRIS,"Kindred Rehabilitation Hospital Clear Lake",Webster,Texas,0,,0,0,0,0,0,29.53773,-95.11826,1,place,,,Webster,TX,"Harris County",77598,US
+HARRIS,"Kindred Rehabilitation Hospital Northeast Houston",Humble,Texas,0,,0,0,0,0,0,29.83399,-95.434241,1,place,,,Humble,TX,"Harris County",77325,US
+MONTGOMERY,"Kingwood Medical Center",Kingwood,Texas,6,3,44,24,0,0,"2,809",30.033553,-95.261044,0.8,place,,,Kingwood,TX,"Harris County",77325,US
+KNOX,"Knox County Hospital","Knox City",Texas,0,,0,0,0,0,0,33.493579,-99.812671,1,place,,,"Knox City",TX,"Knox County",79529,US
+HOOD,"Lake Granbury Medical Center",Granbury,Texas,,1,8,,,,550,32.435405,-97.844867,1,place,,,Granbury,TX,"Hood County",76048,US
+ROCKWALL,"Lake Pointe Medical Center",Rowlett,Texas,0,3,13,4,13,0,"1,802",32.91747,-96.534737,1,place,,,Rowlett,TX,"Dallas County",75030,US
+TRAVIS,"Lakeway Regional Medical Center",Austin,Texas,NAV,1,6,4,0,NAV,285,30.326374,-97.771258,1,place,,,Austin,TX,"Travis County",73301,US
+LAMB,"Lamb Healthcare Center",Littlefield,Texas,4,1,3,0,0,0,84,33.91731,-102.3249,1,place,,,Littlefield,TX,"Lamb County",79339,US
+WEBB,"Laredo Medical Center",Laredo,Texas,29,2,34,17,0,0,"3,393",27.515879,-99.494078,1,place,,,Laredo,TX,"Webb County",78040,US
+WEBB,"Laredo Rehabilitation Hospital",Laredo,Texas,0,,0,0,0,0,0,27.515879,-99.494078,1,place,,,Laredo,TX,"Webb County",78040,US
+WEBB,"Laredo Specialty Hospital",Laredo,Texas,0,,0,0,0,0,0,27.515879,-99.494078,1,place,,,Laredo,TX,"Webb County",78040,US
+DALLAS,"Las Colinas Medical Center",Irving,Texas,0,2,34,6,0,0,"1,399",32.767268,-96.777626,1,place,,,Irving,TX,"Dallas County",75014,US
+"EL PASO","Las Palmas Medical Center","El Paso",Texas,36,3,74,20,11,8,"5,095",31.763608,-106.484592,1,place,,,"El Paso",TX,"El Paso County",79901,US
+LAVACA,"Lavaca Medical Center",Hallettsville,Texas,0,,0,0,0,0,0,29.418431,-96.93942,1,place,,,Hallettsville,TX,"Lavaca County",77964,US
+LIBERTY,"Liberty Dayton Regional Medical Center",Liberty,Texas,0,,0,0,0,0,0,30.094593,-94.737806,1,place,,,Liberty,TX,"Liberty County",77575,US
+DALLAS,"LifeCare Hospitals of Dallas",Dallas,Texas,0,,0,0,0,0,0,32.781179,-96.790329,1,place,,,Dallas,TX,"Dallas County",75201,US
+TARRANT,"LifeCare Hospitals of Fort Worth","Fort Worth",Texas,0,,0,0,0,0,0,32.771419,-97.291484,1,place,,,"Fort Worth",TX,"Tarrant County",76101,US
+COLLIN,"LifeCare Hospitals of Plano",Plano,Texas,0,,0,0,0,0,0,33.056756,-96.730831,1,place,,,Plano,TX,"Collin County",75023,US
+BEXAR,"LifeCare Hospitals of San Antonio","San Antonio",Texas,0,,0,0,0,0,0,29.468413,-98.528889,1,place,,,"San Antonio",TX,"Bexar County",78201,US
+HIDALGO,"LifeCare Hospitals of South Texas",McAllen,Texas,0,,0,0,0,0,0,26.215816,-98.239592,1,place,,,Mcallen,TX,"Hidalgo County",78501,US
+SUTTON,"Lillian M. Hudspeth Memorial Hospital",Sonora,Texas,0,,0,0,0,0,0,30.579386,-100.671422,1,place,,,Sonora,TX,"Sutton County",76950,US
+LIMESTONE,"Limestone Medical Center",Groesbeck,Texas,0,,0,0,0,0,0,31.473823,-96.543147,1,place,,,Groesbeck,TX,"Limestone County",76642,US
+MILAM,"Little River Healthcare",Rockdale,Texas,0,,0,0,0,0,0,30.655359,-97.035158,1,place,,,Rockdale,TX,"Milam County",76567,US
+MILAM,"Little River Healthcare - Cameron Hospital",Cameron,Texas,0,,0,0,0,0,0,30.812561,-96.902747,1,place,,,Cameron,TX,"Milam County",76520,US
+GREGG,"Longview Regional Medical Center",Longview,Texas,8,2,43,21,0,0,"1,871",32.517846,-94.730285,1,place,,,Longview,TX,"Gregg County",75601,US
+LUBBOCK,"Lubbock Heart Hospital, L.P.",Lubbock,Texas,0,,0,0,0,0,0,33.588771,-101.850445,1,place,,,Lubbock,TX,"Lubbock County",79401,US
+LYNN,"Lynn County Hospital District",Tahoka,Texas,1,,0,0,0,0,1,33.178077,-101.816443,1,place,,,Tahoka,TX,"Lynn County",79373,US
+MARTIN,"Martin County Hospital District",Stanton,Texas,0,,0,0,0,0,2,32.200014,-101.823066,1,place,,,Stanton,TX,"Martin County",79782,US
+MATAGORDA,"Matagorda Regional Medical Center","Bay City",Texas,NAV,1,10,0,0,0,498,28.798156,-95.651058,1,place,,,"Bay City",TX,"Matagorda County",77404,US
+DENTON,"Mayhill Hospital",Denton,Texas,0,,0,0,0,0,0,33.220974,-97.146038,1,place,,,Denton,TX,"Denton County",76201,US
+UPTON,"McCamey Hospital",McCamey,Texas,0,,0,0,0,0,0,31.16157,-102.107279,1,place,,,"Mc Camey",TX,"Upton County",79752,US
+DAWSON,"Medical Arts Hospital",Lamesa,Texas,0,1,2,,0,0,99,32.715593,-101.937544,1,place,,,Lamesa,TX,"Dawson County",79331,US
+ECTOR,"Medical Center Hospital",Odessa,Texas,22,3,45,30,0,0,"1,723",31.765163,-102.354346,1,place,,,Odessa,TX,"Ector County",79760,US
+TARRANT,"Medical Center of Alliance","Fort Worth",Texas,0,2,20,8,0,0,543,32.771419,-97.291484,1,place,,,"Fort Worth",TX,"Tarrant County",76101,US
+TARRANT,"Medical Center of Arlington",Arlington,Texas,0,2,54,22,6,0,"4,331",32.635563,-97.148829,1,place,,,Arlington,TX,"Tarrant County",76001,US
+DENTON,"Medical Center of Lewisville",Lewisville,Texas,10,2,28,16,0,0,"1,487",33.20743,-97.116282,1,place,,,Lewisville,TX,"Denton County",75029,US
+COLLIN,"Medical Center of Plano",Plano,Texas,0,3,34,41,0,0,"2,545",33.056756,-96.730831,1,place,,,Plano,TX,"Collin County",75023,US
+DALLAS,"Medical City Dallas Hospital",Dallas,Texas,64,3,57,60,NAV,20,"3,625",32.781179,-96.790329,1,place,,,Dallas,TX,"Dallas County",75201,US
+MEDINA,"Medina Regional Hospital",Hondo,Texas,0,1,4,0,0,0,151,29.398586,-99.176245,1,place,,,Hondo,TX,"Medina County",78861,US
+HARRIS,"Memorial Hermann Greater Heights Hospital",Houston,Texas,0,2,32,0,12,0,"2,205",29.813142,-95.309789,1,place,,,Houston,TX,"Harris County",77001,US
+HARRIS,"Memorial Hermann Hospital",Houston,Texas,90,3,76,80,38,20,"5,035",29.813142,-95.309789,1,place,,,Houston,TX,"Harris County",77001,US
+HARRIS,"Memorial Hermann Katy Hospital",Katy,Texas,3,2,31,0,9,0,"2,310",29.837562,-95.733756,1,place,,,Katy,TX,"Harris County",77449,US
+HARRIS,"Memorial Hermann Memorial City Medical Center",Houston,Texas,18,2,54,24,0,0,"3,695",29.813142,-95.309789,1,place,,,Houston,TX,"Harris County",77001,US
+HARRIS,"Memorial Hermann Northeast Hospital",Humble,Texas,0,2,29,6,NAV,0,"1,395",29.83399,-95.434241,1,place,,,Humble,TX,"Harris County",77325,US
+HARRIS,"Memorial Hermann Rehabilitation Hospital Katy",Katy,Texas,0,,0,0,0,0,0,29.837562,-95.733756,1,place,,,Katy,TX,"Harris County",77449,US
+HARRIS,"Memorial Hermann Southeast Hospital",Houston,Texas,0,2,29,17,0,0,"1,365",29.813142,-95.309789,1,place,,,Houston,TX,"Harris County",77001,US
+HARRIS,"Memorial Hermann Southwest Hospital",Houston,Texas,4,2,14,14,26,0,"3,721",29.813142,-95.309789,1,place,,,Houston,TX,"Harris County",77001,US
+HARRIS,"Memorial Hermann Specialty Hospital Kingwood",Kingwood,Texas,0,,0,0,0,0,0,30.033553,-95.261044,0.8,place,,,Kingwood,TX,"Harris County",77325,US
+"FORT BEND","Memorial Hermann Sugar Land","Sugar Land",Texas,5,2,17,4,0,0,"1,344",29.620312,-95.605693,1,place,,,"Sugar Land",TX,"Fort Bend County",77478,US
+"FORT BEND","Memorial Hermann Surgical Hospital First Colony","Sugar Land",Texas,0,,0,0,0,0,0,29.620312,-95.605693,1,place,,,"Sugar Land",TX,"Fort Bend County",77478,US
+MONTGOMERY,"Memorial Hermann The Woodlands Hospital","The Woodlands",Texas,6,2,40,14,0,0,"4,064",30.136972,-95.46836,0.8,place,,,"The Woodlands",TX,"Montgomery County",77380,US
+GAINES,"Memorial Hospital",Seminole,Texas,0,1,5,0,0,0,361,32.671912,-102.805355,1,place,,,Seminole,TX,"Gaines County",79360,US
+GONZALES,"Memorial Hospital",Gonzales,Texas,0,1,3,0,0,0,176,29.543029,-97.543969,1,place,,,Gonzales,TX,"Gonzales County",78629,US
+MOORE,"Memorial Hospital",Dumas,Texas,2,1,6,0,0,0,334,35.9216,-101.92026,1,place,,,Dumas,TX,"Moore County",79029,US
+CALHOUN,"Memorial Medical Center","Port Lavaca",Texas,0,1,3,0,0,0,121,28.556096,-96.600353,1,place,,,"Port Lavaca",TX,"Calhoun County",77979,US
+ANGELINA,"Memorial Medical Center of East Texas",Lufkin,Texas,0,1,12,0,0,0,295,31.301706,-94.641414,1,place,,,Lufkin,TX,"Angelina County",75901,US
+"EL PASO","Mesa Hill Specialty Hospital","El Paso",Texas,0,,0,0,0,0,0,31.763608,-106.484592,1,place,,,"El Paso",TX,"El Paso County",79901,US
+DALLAS,"Mesquite Rehabilitation Hospital",Mesquite,Texas,0,,0,0,0,0,0,32.777779,-96.62315,1,place,,,Mesquite,TX,"Dallas County",75149,US
+DALLAS,"Mesquite Specialty Hospital",Mesquite,Texas,0,,0,0,0,0,0,32.777779,-96.62315,1,place,,,Mesquite,TX,"Dallas County",75149,US
+BEXAR,"Methodist Ambulatory Surgery Hospital - Northwest","San Antonio",Texas,0,,0,0,0,0,0,29.468413,-98.528889,1,place,,,"San Antonio",TX,"Bexar County",78201,US
+DALLAS,"Methodist Charlton Medical Center",Dallas,Texas,0,3,11,0,0,0,"2,076",32.781179,-96.790329,1,place,,,Dallas,TX,"Dallas County",75201,US
+DALLAS,"Methodist Dallas Medical Center",Dallas,Texas,0,3,14,50,0,0,"3,389",32.781179,-96.790329,1,place,,,Dallas,TX,"Dallas County",75201,US
+BEXAR,"Methodist Hospital","San Antonio",Texas,75,2,122,94,0,19,"10,026",29.468413,-98.528889,1,place,,,"San Antonio",TX,"Bexar County",78201,US
+DALLAS,"Methodist Hospital for Surgery",Addison,Texas,0,,0,0,0,0,0,32.96179,-96.82917,1,place,,,Addison,TX,"Dallas County",75001,US
+TARRANT,"Methodist Mansfield Medical Center",Mansfield,Texas,0,1,7,0,0,0,"1,926",32.56319,-97.14168,1,place,,,Mansfield,TX,"Tarrant County",76063,US
+COLLIN,"Methodist McKinney Hospital",McKinney,Texas,0,,0,0,0,0,0,33.141438,-96.588295,1,place,,,Mckinney,TX,"Collin County",75069,US
+DALLAS,"Methodist Rehabilitation Hospital",Dallas,Texas,0,,0,0,0,0,0,32.781179,-96.790329,1,place,,,Dallas,TX,"Dallas County",75201,US
+COLLIN,"Methodist Richardson Medical Center",Richardson,Texas,0,2,12,10,0,0,"1,871",32.962811,-96.726826,1,place,,,Richardson,TX,"Dallas County",75080,US
+BEXAR,"Methodist Stone Oak Hospital","San Antonio",Texas,0,2,22,9,0,0,"2,174",29.468413,-98.528889,1,place,,,"San Antonio",TX,"Bexar County",78201,US
+BELL,"Metroplex Hospital",Killeen,Texas,0,3,31,0,0,0,"1,300",31.085833,-97.357099,1,place,,,Killeen,TX,"Bell County",76540,US
+JEFFERSON,"Mid-Jefferson Extended Care Hospital",Nederland,Texas,0,,0,,0,0,0,29.97438,-93.9924,1,place,,,Nederland,TX,"Jefferson County",77627,US
+MIDLAND,"Midland Memorial Hospital",Midland,Texas,12,2,50,0,5,2,"2,614",31.992384,-102.081464,1,place,,,Midland,TX,"Midland County",79701,US
+HIDALGO,"Mission Regional Medical Center",Mission,Texas,18,2,41,20,0,0,"2,443",26.228735,-98.376167,1,place,,,Mission,TX,"Hidalgo County",78572,US
+MITCHELL,"Mitchell County Hospital","Colorado City",Texas,0,,0,0,0,0,0,32.340912,-100.900564,1,place,,,"Colorado City",TX,"Mitchell County",79512,US
+SMITH,"Mother Frances Hospital",Tyler,Texas,19,2,30,12,6,0,"2,700",32.321937,-95.302223,1,place,,,Tyler,TX,"Smith County",75701,US
+WOOD,"Mother Frances Hospital - Winnsboro",Winnsboro,Texas,0,,0,0,0,0,0,32.944701,-95.306215,1,place,,,Winnsboro,TX,"Wood County",75494,US
+CHEROKEE,"Mother Frances Hospital Jacksonville",Jacksonville,Texas,0,,0,0,0,0,0,31.96378,-95.2705,1,place,,,Jacksonville,TX,"Cherokee County",75766,US
+COOKE,"Muenster Memorial Hospital",Muenster,Texas,0,,0,0,0,0,0,33.690667,-97.34502,1,place,,,Muenster,TX,"Cooke County",76252,US
+BAILEY,"Muleshoe Area Medical Center",Muleshoe,Texas,0,,0,0,0,0,0,34.092391,-102.829924,1,place,,,Muleshoe,TX,"Bailey County",79347,US
+NACOGDOCHES,"Nacogdoches Medical Center",Nacogdoches,Texas,0,1,12,0,0,0,566,31.558383,-94.504452,1,place,,,Nacogdoches,TX,"Nacogdoches County",75961,US
+NACOGDOCHES,"Nacogdoches Memorial Hospital",Nacogdoches,Texas,12,1,7,0,0,0,788,31.558383,-94.504452,1,place,,,Nacogdoches,TX,"Nacogdoches County",75961,US
+NAVARRO,"Navarro Regional Hospital",Corsicana,Texas,0,2,6,0,0,0,553,32.084915,-96.528172,1,place,,,Corsicana,TX,"Navarro County",75110,US
+COMAL,"New Braunfels Regional Rehabilitation Hospital","New Braunfels",Texas,0,,0,0,0,0,0,29.696878,-98.070726,1,place,,,"New Braunfels",TX,"Comal County",78130,US
+MONTGOMERY,"Nexus Specialty Hospital-The Woodlands Ltd-Shenandoah Campus",Shenandoah,Texas,0,,0,0,0,0,0,30.221853,-95.338811,0.8,place,,,Shenandoah,TX,"Montgomery County",77302,US
+FRIO,"Nix Community General Hospital",Dilley,Texas,0,0,0,0,0,,0,28.763313,-99.217995,1,place,,,Dilley,TX,"Frio County",78017,US
+BEXAR,"Nix Health Care System","San Antonio",Texas,0,,0,0,0,0,0,29.468413,-98.528889,1,place,,,"San Antonio",TX,"Bexar County",78201,US
+MONTAGUE,"Nocona General Hospital",Nocona,Texas,0,,0,0,0,0,0,33.815096,-97.691515,1,place,,,Nocona,TX,"Montague County",76255,US
+TRAVIS,"North Austin Medical Center",Austin,Texas,8,3,105,56,1,6,"6,570",30.326374,-97.771258,1,place,,,Austin,TX,"Travis County",73301,US
+DALLAS,"North Central Surgical Center, LLP",Dallas,Texas,0,,0,0,0,0,0,32.781179,-96.790329,1,place,,,Dallas,TX,"Dallas County",75201,US
+HARRIS,"North Cypress Medical Center",Cypress,Texas,4,,0,0,0,0,0,29.83399,-95.434241,1,place,,,Cypress,TX,"Harris County",77410,US
+TARRANT,"North Hills Hospital","North Richland Hills",Texas,0,,0,0,0,0,41,32.666109,-97.134077,1,street_center,,N,Arlington,TX,"Tarrant County",76017,US
+RUNNELS,"North Runnels Hospital",Winters,Texas,0,,0,0,0,0,0,31.951207,-99.955406,1,place,,,Winters,TX,"Runnels County",79567,US
+COOKE,"North Texas Medical Center",Gainesville,Texas,0,1,12,0,0,0,341,33.654698,-97.158295,1,place,,,Gainesville,TX,"Cooke County",76240,US
+TRAVIS,"Northwest Hills Surgical Hospital",Austin,Texas,0,,0,0,0,0,0,30.326374,-97.771258,1,place,,,Austin,TX,"Travis County",73301,US
+POTTER,"Northwest Texas Hospital",Amarillo,Texas,25,3,38,44,0,12,"2,441",35.20603,-101.839602,1,place,,,Amarillo,TX,"Potter County",79101,US
+"FORT BEND","OakBend Medical Center",Richmond,Texas,4,2,31,8,0,0,"1,813",29.64609,-95.794526,1,place,,,Richmond,TX,"Fort Bend County",77406,US
+OCHILTREE,"Ochiltree General Hospital",Perryton,Texas,0,1,5,0,0,0,195,36.408493,-100.687227,1,place,,,Perryton,TX,"Ochiltree County",79070,US
+ECTOR,"Odessa Regional Medical Center",Odessa,Texas,17,3,49,49,0,0,"2,671",31.765163,-102.354346,1,place,,,Odessa,TX,"Ector County",79760,US
+KARNES,"Otto Kaiser Memorial Hospital",Kenedy,Texas,0,,0,0,0,0,0,28.81915,-97.84861,1,place,,,Kenedy,TX,"Karnes County",78119,US
+DALLAS,"Our Children's House",Dallas,Texas,32,,0,0,0,0,0,32.781179,-96.790329,1,place,,,Dallas,TX,"Dallas County",75201,US
+MATAGORDA,"Palacios Community Medical Center",Palacios,Texas,0,,0,0,0,0,0,28.70805,-96.21747,1,place,,,Palacios,TX,"Matagorda County",77465,US
+ANDERSON,"Palestine Regional Medical Center",Palestine,Texas,12,2,16,0,0,0,668,31.73452,-95.531381,1,place,,,Palestine,TX,"Anderson County",75801,US
+"PALO PINTO","Palo Pinto General Hospital","Mineral Wells",Texas,0,1,10,0,0,0,198,32.799602,-98.126806,1,place,,,"Mineral Wells",TX,"Palo Pinto County",76067,US
+GRAY,"Pampa Regional Medical Center",Pampa,Texas,0,2,13,0,0,0,194,35.515114,-100.836363,1,place,,,Pampa,TX,"Gray County",79065,US
+LAMAR,"Paris Regional Medical Center - North Campus",Paris,Texas,0,2,8,0,0,0,774,33.655162,-95.605194,1,place,,,Paris,TX,"Lamar County",75460,US
+HARRIS,"Park Plaza Hospital",Houston,Texas,0,,0,0,0,0,0,29.813142,-95.309789,1,place,,,Houston,TX,"Harris County",77001,US
+DALLAS,"Parkland Memorial Hospital",Dallas,Texas,0,3,124,72,0,0,"9,238",32.781179,-96.790329,1,place,,,Dallas,TX,"Dallas County",75201,US
+WHEELER,"Parkview Hospital",Wheeler,Texas,0,,0,0,0,0,0,35.394891,-100.224203,1,place,,,Wheeler,TX,"Wheeler County",79096,US
+LIMESTONE,"Parkview Regional Hospital",Mexia,Texas,0,,0,0,0,0,0,31.674789,-96.52153,1,place,,,Mexia,TX,"Limestone County",76667,US
+PARMER,"Parmer Medical Center",Friona,Texas,1,,0,0,0,0,0,34.627408,-102.784361,1,place,,,Friona,TX,"Parmer County",79035,US
+BRAZORIA,"Pearland Medical Center",Pearland,Texas,0,2,10,0,3,0,66,29.561554,-95.279739,1,place,,,Pearland,TX,"Brazoria County",77581,US
+PECOS,"Pecos County Memorial Hospital","Fort Stockton",Texas,0,1,3,0,0,0,156,30.886367,-102.890491,1,place,,,"Fort Stockton",TX,"Pecos County",79735,US
+ANDREWS,"Permian Regional Medical Center",Andrews,Texas,8,1,5,0,2,0,347,32.370377,-102.523255,1,place,,,Andrews,TX,"Andrews County",79714,US
+KERR,"Peterson Regional Medical Center",Kerrville,Texas,0,2,14,0,0,0,482,29.988525,-99.155469,1,place,,,Kerrville,TX,"Kerr County",78028,US
+POTTER,"Physicians Surgical Hospital - Quail Creek Campus",Amarillo,Texas,NAV,,0,0,0,0,0,35.20603,-101.839602,1,place,,,Amarillo,TX,"Potter County",79101,US
+DALLAS,"Pine Creek Medical Center",Dallas,Texas,0,,0,0,0,0,0,32.781179,-96.790329,1,place,,,Dallas,TX,"Dallas County",75201,US
+CASTRO,"Plains Memorial Hospital",Dimmitt,Texas,0,,0,0,0,0,0,34.530453,-102.262133,1,place,,,Dimmitt,TX,"Castro County",79027,US
+COLLIN,"Plano Specialty Hospital",Plano,Texas,0,,0,0,0,0,0,33.056756,-96.730831,1,place,,,Plano,TX,"Collin County",75023,US
+TARRANT,"Plaza Medical Center of Fort Worth","Fort Worth",Texas,0,,0,0,0,0,0,32.771419,-97.291484,1,place,,,"Fort Worth",TX,"Tarrant County",76101,US
+HARRIS,"Plaza Specialty Hospital",Houston,Texas,0,,0,0,0,0,0,29.813142,-95.309789,1,place,,,Houston,TX,"Harris County",77001,US
+POTTER,"Plum Creek Specialty Hospital",Amarillo,Texas,0,,0,0,0,0,0,35.20603,-101.839602,1,place,,,Amarillo,TX,"Potter County",79101,US
+BOWIE,"Post Acute Medical Specialty Hospital at Texarkana North",Texarkana,Texas,,,,,,,0,33.411321,-94.177354,1,place,,,Texarkana,TX,"Bowie County",75501,US
+NUECES,"Post Acute Medical Specialty Hospital of Corpus Christi","Corpus Christi",Texas,0,,0,0,0,0,0,27.797802,-97.399067,1,place,,,"Corpus Christi",TX,"Nueces County",78401,US
+VICTORIA,"Post Acute Medical Specialty Hospital of Victoria",Victoria,Texas,0,,0,0,0,0,0,28.804947,-96.984711,1,place,,,Victoria,TX,"Victoria County",77901,US
+DALLAS,"Promise Hospital of Dallas Inc",Dallas,Texas,0,,0,0,0,0,0,32.781179,-96.790329,1,place,,,Dallas,TX,"Dallas County",75201,US
+HARRIS,"Promise Hospital of Houston Inc",Houston,Texas,0,,0,0,0,0,0,29.813142,-95.309789,1,place,,,Houston,TX,"Harris County",77001,US
+WICHITA,"Promise Hospital of Wichita Falls Inc","Wichita Falls",Texas,0,,0,0,0,0,0,33.905544,-98.479881,1,place,,,"Wichita Falls",TX,"Wichita County",76301,US
+MCLENNAN,"Providence Health Center",Waco,Texas,8,2,26,0,0,0,"1,615",31.552011,-97.1382,1,place,,,Waco,TX,"McLennan County",76701,US
+UPTON,"Rankin County Hospital District",Rankin,Texas,0,,0,0,0,0,0,31.226573,-101.944129,1,place,,,Rankin,TX,"Upton County",79778,US
+REAGAN,"Reagan Memorial Hospital","Big Lake",Texas,NAV,,0,0,0,0,0,31.417011,-101.5423,1,place,,,"Big Lake",TX,"Reagan County",76932,US
+HARRIS,"Red Oak Hospital",Houston,Texas,0,,0,0,0,0,0,29.813142,-95.309789,1,place,,,Houston,TX,"Harris County",77001,US
+REEVES,"Reeves County Hospital",Pecos,Texas,0,1,4,0,0,0,143,31.446678,-103.57906,1,place,,,Pecos,TX,"Reeves County",79772,US
+REFUGIO,"Refugio County Memorial Hospital District",Refugio,Texas,0,,0,0,0,0,0,28.281826,-97.297783,1,place,,,Refugio,TX,"Refugio County",78377,US
+TARRANT,"Regency Hospital of Fort Worth, LLLP","Fort Worth",Texas,0,,0,0,0,0,0,32.771419,-97.291484,1,place,,,"Fort Worth",TX,"Tarrant County",76101,US
+COMAL,"Resolute Health","New Braunfels",Texas,0,1,6,4,0,0,632,29.696878,-98.070726,1,place,,,"New Braunfels",TX,"Comal County",78130,US
+COLORADO,"Rice Medical Center","Eagle Lake",Texas,0,1,4,0,0,0,42,29.590148,-96.35207,1,place,,,"Eagle Lake",TX,"Colorado County",77434,US
+HIDALGO,"Rio Grande Regional Hospital",McAllen,Texas,32,2,56,17,15,14,"2,721",26.215816,-98.239592,1,place,,,Mcallen,TX,"Hidalgo County",78501,US
+NOLAN,"Rolling Plains Memorial Hospital",Sweetwater,Texas,7,1,6,0,0,0,216,32.47095,-100.40594,1,place,,,Sweetwater,TX,"Nolan County",79556,US
+LAMPASAS,"Rollins Brook Community Hospital",Lampasas,Texas,0,,0,0,0,0,0,31.183225,-98.236306,1,place,,,Lampasas,TX,"Lampasas County",76550,US
+WILLIAMSON,"Round Rock Medical Center","Round Rock",Texas,0,3,27,0,12,0,"1,872",30.501747,-97.647206,1,place,,,"Round Rock",TX,"Williamson County",78664,US
+SABINE,"Sabine County Hospital",Hemphill,Texas,0,,0,0,0,0,0,31.329084,-93.773671,1,place,,,Hemphill,TX,"Sabine County",75948,US
+"TOM GREEN","San Angelo Community Medical Center","San Angelo",Texas,7,2,19,6,0,0,963,31.44451,-100.533397,1,place,,,"San Angelo",TX,"Tom Green County",76901,US
+HARRIS,"SCA Houston Hospital for Specialized Surgery",Houston,Texas,0,,0,0,0,0,0,29.813142,-95.309789,1,place,,,Houston,TX,"Harris County",77001,US
+HOWARD,"Scenic Mountain Medical Center","Big Spring",Texas,NAV,1,10,0,0,0,262,32.278703,-101.457761,1,place,,,"Big Spring",TX,"Howard County",79720,US
+SCHLEICHER,"Schleicher County Medical Center",Eldorado,Texas,0,,0,0,0,0,0,30.912773,-100.676722,1,place,,,Eldorado,TX,"Schleicher County",76936,US
+BELL,"Scott & White Memorial Hospital",Temple,Texas,48,3,37,43,8,16,"2,725",31.068306,-97.3047,1,place,,,Temple,TX,"Bell County",76501,US
+DENTON,"Select Rehabilitation Hospital of Denton",Denton,Texas,0,,0,0,0,0,0,33.220974,-97.146038,1,place,,,Denton,TX,"Denton County",76201,US
+BEXAR,"Select Rehabilitation Hospital of San Antonio","San Antonio",Texas,0,,0,0,0,0,0,29.468413,-98.528889,1,place,,,"San Antonio",TX,"Bexar County",78201,US
+DENTON,"Select Specialty Hospital - Dallas",Carrollton,Texas,,,,,,,0,32.962473,-96.89817,1,place,,,Carrollton,TX,"Dallas County",75006,US
+DALLAS,"Select Specialty Hospital - Dallas (Downtown)",Dallas,Texas,0,,0,0,0,0,0,32.781179,-96.790329,1,place,,,Dallas,TX,"Dallas County",75201,US
+DALLAS,"Select Specialty Hospital - Dallas (Garland)",Garland,Texas,0,,0,0,0,0,0,32.931523,-96.615821,1,place,,,Garland,TX,"Dallas County",75040,US
+HARRIS,"Select Specialty Hospital - Houston (Medical Center Campus)",Houston,Texas,0,,0,0,0,0,0,29.813142,-95.309789,1,place,,,Houston,TX,"Harris County",77001,US
+GREGG,"Select Specialty Hospital - Longview, Inc.",Longview,Texas,0,,0,0,0,0,0,32.517846,-94.730285,1,place,,,Longview,TX,"Gregg County",75601,US
+BEXAR,"Select Specialty Hospital - San Antonio","San Antonio",Texas,0,,0,0,0,0,0,29.468413,-98.528889,1,place,,,"San Antonio",TX,"Bexar County",78201,US
+DALLAS,"Select Specialty Hospital - South Dallas",Dallas,Texas,0,,0,0,0,0,0,32.781179,-96.790329,1,place,,,Dallas,TX,"Dallas County",75201,US
+CALDWELL,"Seton Edgar B Davis",Luling,Texas,0,,0,0,0,0,0,29.709928,-97.638005,1,place,,,Luling,TX,"Caldwell County",78648,US
+BURNET,"Seton Highland Lakes",Burnet,Texas,0,,0,0,0,0,0,30.749465,-98.238816,1,place,,,Burnet,TX,"Burnet County",78611,US
+TRAVIS,"Seton Medical Center Austin",Austin,Texas,0,3,64,44,0,0,"4,324",30.326374,-97.771258,1,place,,,Austin,TX,"Travis County",73301,US
+BELL,"Seton Medical Center Harker Heights","Harker Heights",Texas,,1,18,,,,960,31.028627,-97.611484,1,place,,,"Harker Heights",TX,"Bell County",76548,US
+HAYS,"Seton Medical Center Hays",Kyle,Texas,0,2,12,4,0,0,931,29.996599,-97.83354,1,place,,,Kyle,TX,"Hays County",78640,US
+WILLIAMSON,"Seton Medical Center Williamson","Round Rock",Texas,0,2,16,8,0,0,35,30.501747,-97.647206,1,place,,,"Round Rock",TX,"Williamson County",78664,US
+TRAVIS,"Seton Northwest Hospital",Austin,Texas,0,2,23,0,2,0,"1,487",30.326374,-97.771258,1,place,,,Austin,TX,"Travis County",73301,US
+BASTROP,"Seton Smithville Regional Hospital",Smithville,Texas,0,,0,0,0,0,0,30.003401,-97.222121,1,place,,,Smithville,TX,"Bastrop County",78957,US
+TRAVIS,"Seton Southwest Hospital",Austin,Texas,0,1,17,5,0,0,830,30.326374,-97.771258,1,place,,,Austin,TX,"Travis County",73301,US
+BAYLOR,"Seymour Hospital",Seymour,Texas,0,1,2,0,0,0,37,33.620131,-99.263681,1,place,,,Seymour,TX,"Baylor County",76380,US
+WHEELER,"Shamrock General Hospital",Shamrock,Texas,0,,0,0,0,0,0,35.20898,-100.242918,1,place,,,Shamrock,TX,"Wheeler County",79079,US
+"TOM GREEN","Shannon West Texas Memorial Hospital","San Angelo",Texas,16,2,20,4,10,0,"1,227",31.44451,-100.533397,1,place,,,"San Angelo",TX,"Tom Green County",76901,US
+GALVESTON,"Shriners Hospital for Children- Galveston",Galveston,Texas,0,,0,0,0,0,0,29.310535,-94.775768,1,place,,,Galveston,TX,"Galveston County",77550,US
+HARRIS,"Shriners Hospitals For Children",Houston,Texas,40,,0,0,0,0,0,29.813142,-95.309789,1,place,,,Houston,TX,"Harris County",77001,US
+CAMERON,"Solara Hospital Harlingen",Harlingen,Texas,0,,0,0,0,0,0,26.255523,-97.667502,1,place,,,Harlingen,TX,"Cameron County",78550,US
+HIDALGO,"Solara Hospital McAllen LP",McAllen,Texas,0,,0,0,0,0,0,26.215816,-98.239592,1,place,,,Mcallen,TX,"Hidalgo County",78501,US
+ATASCOSA,"South Texas Regional Medical Center",Jourdanton,Texas,0,1,4,0,0,0,280,28.932742,-98.612998,1,place,,,Jourdanton,TX,"Atascosa County",78026,US
+CAMERON,"South Texas Rehabilitation Hospital",Brownsville,Texas,0,,0,0,0,0,0,25.963264,-97.550453,1,place,,,Brownsville,TX,"Cameron County",78520,US
+BEXAR,"South Texas Spine and Surgical Hospital","San Antonio",Texas,0,,0,0,0,0,0,29.468413,-98.528889,1,place,,,"San Antonio",TX,"Bexar County",78201,US
+NUECES,"South Texas Surgical Hospital","Corpus Christi",Texas,0,,0,0,0,0,0,27.797802,-97.399067,1,place,,,"Corpus Christi",TX,"Nueces County",78401,US
+BEXAR,"Southwest General Hospital","San Antonio",Texas,0,2,37,24,0,0,"1,850",29.468413,-98.528889,1,place,,,"San Antonio",TX,"Bexar County",78201,US
+TRAVIS,"St. David's Medical Center",Austin,Texas,0,2,94,32,33,0,"5,486",30.326374,-97.771258,1,place,,,Austin,TX,"Travis County",73301,US
+TRAVIS,"St. David's South Austin Medical Center",Austin,Texas,0,2,13,0,9,0,"1,654",30.326374,-97.771258,1,place,,,Austin,TX,"Travis County",73301,US
+HARRIS,"St. Joseph Medical Center",Houston,Texas,0,3,48,33,0,0,"4,884",29.813142,-95.309789,1,place,,,Houston,TX,"Harris County",77001,US
+HARRIS,"St. Luke's Hospital at the Vintage",Houston,Texas,0,2,14,4,0,0,499,29.813142,-95.309789,1,place,,,Houston,TX,"Harris County",77001,US
+MONTGOMERY,"St. Luke's Lakeside Hospital","The Woodlands",Texas,0,,0,0,0,0,0,30.136972,-95.46836,0.8,place,,,"The Woodlands",TX,"Montgomery County",77380,US
+HARRIS,"St. Luke's Patients Medical Center",Pasadena,Texas,0,,0,0,0,0,0,29.83399,-95.434241,1,place,,,Pasadena,TX,"Harris County",77501,US
+"FORT BEND","St. Luke's Sugar Land Hospital","Sugar Land",Texas,0,,0,0,0,0,0,29.620312,-95.605693,1,place,,,"Sugar Land",TX,"Fort Bend County",77478,US
+MONTGOMERY,"St. Luke's the Woodlands Hospital","The Woodlands",Texas,6,2,18,12,0,0,"2,036",30.136972,-95.46836,0.8,place,,,"The Woodlands",TX,"Montgomery County",77380,US
+FAYETTE,"St. Mark's Medical Center","La Grange",Texas,0,0,NAV,0,0,0,293,29.896219,-96.943868,0.33,place,,,Plum,TX,"Fayette County",78952,US
+JONES,"Stamford Memorial Hospital",Stamford,Texas,NAV,,0,0,0,0,0,32.869561,-99.808377,1,place,,,Stamford,TX,"Jones County",79553,US
+COLLIN,"Star Medical Center",Plano,Texas,0,,0,0,0,0,0,33.056756,-96.730831,1,place,,,Plano,TX,"Collin County",75023,US
+STARR,"Starr County Memorial Hospital","Rio Grande City",Texas,4,1,10,0,0,0,214,26.499887,-98.752428,1,place,,,"Rio Grande City",TX,"Starr County",78582,US
+STEPHENS,"Stephens Memorial Hospital",Breckenridge,Texas,1,,0,0,0,0,0,32.769037,-98.84154,1,place,,,Breckenridge,TX,"Stephens County",76424,US
+STONEWALL,"Stonewall Memorial Hospital",Aspermont,Texas,0,,0,0,0,0,0,33.139647,-100.224966,1,place,,,Aspermont,TX,"Stonewall County",79502,US
+HARRIS,"Surgery Specialty Hospitals of America Southeast Houston",Pasadena,Texas,0,,0,0,0,0,0,29.83399,-95.434241,1,place,,,Pasadena,TX,"Harris County",77501,US
+BRAZORIA,"Sweeny Community Hospital",Sweeny,Texas,0,,0,0,0,0,0,29.100012,-95.744623,1,place,,,Sweeny,TX,"Brazoria County",77480,US
+SWISHER,"Swisher Memorial Hospital",Tulia,Texas,0,,0,0,0,0,0,34.558293,-101.803862,1,place,,,Tulia,TX,"Swisher County",79088,US
+BEXAR,"Texas Center for Infectious Disease","San Antonio",Texas,0,,0,0,0,0,0,29.468413,-98.528889,1,place,,,"San Antonio",TX,"Bexar County",78201,US
+HARRIS,"Texas Children's Hospital",Houston,Texas,258,3,73,118,55,55,"6,009",29.813142,-95.309789,1,place,,,Houston,TX,"Harris County",77001,US
+TARRANT,"Texas General Hospital","Grand Prairie",Texas,0,,0,0,0,0,0,32.776671,-97.009389,1,place,,,"Grand Prairie",TX,"Dallas County",75050,US
+"VAN ZANDT","Texas General Hospital - Van Zandt Regional Medical Center LP","Grand Saline",Texas,0,,0,0,0,0,0,32.661269,-95.77607,1,place,,,"Grand Saline",TX,"Van Zandt County",75140,US
+TARRANT,"Texas Health Arlington Memorial Hospital",Arlington,Texas,0,2,36,15,0,0,"1,997",32.635563,-97.148829,1,place,,,Arlington,TX,"Tarrant County",76001,US
+COLLIN,"Texas Health Center for Diagnostics & Surgery Plano",Plano,Texas,0,,0,0,0,0,0,33.056756,-96.730831,1,place,,,Plano,TX,"Collin County",75023,US
+TARRANT,"Texas Health Harris Methodist Hospital Alliance","Fort Worth",Texas,0,1,18,8,0,0,"1,527",32.771419,-97.291484,1,place,,,"Fort Worth",TX,"Tarrant County",76101,US
+TARRANT,"Texas Health Harris Methodist Hospital Azle",Azle,Texas,0,,0,0,0,0,0,32.909715,-97.526302,1,place,,,Azle,TX,"Tarrant County",76020,US
+JOHNSON,"Texas Health Harris Methodist Hospital Cleburne",Cleburne,Texas,NAV,2,14,0,0,0,684,32.346162,-97.328079,1,place,,,Cleburne,TX,"Johnson County",76031,US
+TARRANT,"Texas Health Harris Methodist Hospital Fort Worth","Fort Worth",Texas,0,3,65,62,0,0,"3,487",32.771419,-97.291484,1,place,,,"Fort Worth",TX,"Tarrant County",76101,US
+TARRANT,"Texas Health Harris Methodist Hospital Hurst-Euless-Bedford",Bedford,Texas,0,2,39,16,0,0,"2,144",32.852546,-97.136289,1,place,,,Bedford,TX,"Tarrant County",76021,US
+TARRANT,"Texas Health Harris Methodist Hospital Southlake",Southlake,Texas,0,0,0,0,0,0,0,32.948474,-97.152368,1,place,,,Southlake,TX,"Tarrant County",76092,US
+TARRANT,"Texas Health Harris Methodist Hospital Southwest Fort Worth","Fort Worth",Texas,0,2,48,8,0,0,"3,075",32.771419,-97.291484,1,place,,,"Fort Worth",TX,"Tarrant County",76101,US
+ERATH,"Texas Health Harris Methodist Hospital Stephenville",Stephenville,Texas,2,1,10,0,0,0,375,32.321348,-98.108828,1,place,,,Stephenville,TX,"Erath County",76401,US
+TARRANT,"Texas Health Heart & Vascular Hospital  Arlington",Arlington,Texas,0,,0,0,0,0,0,32.635563,-97.148829,1,place,,,Arlington,TX,"Tarrant County",76001,US
+TARRANT,"Texas Health Huguley Hospital","Fort Worth",Texas,5,1,29,0,0,0,"1,240",32.771419,-97.291484,1,place,,,"Fort Worth",TX,"Tarrant County",76101,US
+COLLIN,"Texas Health Presbyterian Hospital Allen",Allen,Texas,NAV,2,9,0,6,0,581,33.089587,-96.607767,1,place,,,Allen,TX,"Collin County",75002,US
+DALLAS,"Texas Health Presbyterian Hospital Dallas",Dallas,Texas,0,3,93,74,0,0,"5,303",32.781179,-96.790329,1,place,,,Dallas,TX,"Dallas County",75201,US
+DENTON,"Texas Health Presbyterian Hospital Denton",Denton,Texas,18,3,37,10,0,0,"2,218",33.220974,-97.146038,1,place,,,Denton,TX,"Denton County",76201,US
+DENTON,"Texas Health Presbyterian Hospital Flower Mound","Flower Mound",Texas,0,2,17,0,6,0,"1,601",33.026795,-97.119331,1,place,,,"Flower Mound",TX,"Denton County",75022,US
+KAUFMAN,"Texas Health Presbyterian Hospital Kaufman",Kaufman,Texas,0,1,24,0,0,0,252,32.581306,-96.265477,1,place,,,Kaufman,TX,"Kaufman County",75142,US
+COLLIN,"Texas Health Presbyterian Hospital Plano",Plano,Texas,8,3,85,45,0,0,"3,952",33.056756,-96.730831,1,place,,,Plano,TX,"Collin County",75023,US
+ROCKWALL,"Texas Health Presbyterian Hospital Rockwall",Rockwall,Texas,0,1,10,0,0,0,602,32.886,-96.409502,1,place,,,Rockwall,TX,"Rockwall County",75032,US
+TARRANT,"Texas Health Specialty Hospital Fort Worth","Fort Worth",Texas,0,,0,0,0,0,0,32.771419,-97.291484,1,place,,,"Fort Worth",TX,"Tarrant County",76101,US
+DALLAS,"Texas Institute for Surgery at Texas Health Presbyterian Dallas",Dallas,Texas,0,,0,0,0,0,0,32.781179,-96.790329,1,place,,,Dallas,TX,"Dallas County",75201,US
+TRAVIS,"Texas Neurorehab Center",Austin,Texas,0,,0,0,0,0,0,30.326374,-97.771258,1,place,,,Austin,TX,"Travis County",73301,US
+HARRIS,"Texas Orthopedic Hospital",Houston,Texas,0,,0,0,0,0,0,29.813142,-95.309789,1,place,,,Houston,TX,"Harris County",77001,US
+DALLAS,"Texas Regional Medical Center at Sunnyvale",Sunnyvale,Texas,0,1,9,0,0,0,"1,290",32.797048,-96.561606,1,place,,,Sunnyvale,TX,"Dallas County",75182,US
+TARRANT,"Texas Rehabilitation Hospital of Fort Worth","Fort Worth",Texas,0,,0,0,0,0,0,32.771419,-97.291484,1,place,,,"Fort Worth",TX,"Tarrant County",76101,US
+DALLAS,"Texas Scottish Rite Hospital for Children",Dallas,Texas,52,,0,0,0,,0,32.781179,-96.790329,1,place,,,Dallas,TX,"Dallas County",75201,US
+LUBBOCK,"Texas Specialty Hospital at Lubbock",Lubbock,Texas,0,,0,0,0,0,0,33.588771,-101.850445,1,place,,,Lubbock,TX,"Lubbock County",79401,US
+SMITH,"Texas Spine and Joint Hospital",Tyler,Texas,0,,0,0,0,0,0,32.321937,-95.302223,1,place,,,Tyler,TX,"Smith County",75701,US
+GRAYSON,"Texoma Medical Center",Denison,Texas,10,2,8,0,0,0,"1,159",33.76672,-96.546662,1,place,,,Denison,TX,"Grayson County",75020,US
+NUECES,"The Corpus Christi Medical Center - Bay Area","Corpus Christi",Texas,0,2,46,16,16,,"4,719",27.797802,-97.399067,1,place,,,"Corpus Christi",TX,"Nueces County",78401,US
+DENTON,"The Heart Hospital Baylor Denton",Denton,Texas,0,,0,0,0,0,0,33.220974,-97.146038,1,place,,,Denton,TX,"Denton County",76201,US
+COLLIN,"The Heart Hospital Baylor Plano",Plano,Texas,0,,0,0,0,0,0,33.056756,-96.730831,1,place,,,Plano,TX,"Collin County",75023,US
+TRAVIS,"The Hospital at Westlake Medical Center",Austin,Texas,0,,0,0,0,0,0,30.326374,-97.771258,1,place,,,Austin,TX,"Travis County",73301,US
+"EL PASO","The Hospitals of Providence East Campus","El Paso",Texas,6,3,14,6,6,0,"2,304",31.763608,-106.484592,1,place,,,"El Paso",TX,"El Paso County",79901,US
+"EL PASO","The Hospitals of Providence Memorial Campus","El Paso",Texas,98,2,55,15,20,15,"3,164",31.763608,-106.484592,1,place,,,"El Paso",TX,"El Paso County",79901,US
+"EL PASO","The Hospitals of Providence Sierra Campus","El Paso",Texas,0,2,30,14,0,0,"1,346",31.763608,-106.484592,1,place,,,"El Paso",TX,"El Paso County",79901,US
+JEFFERSON,"The Medical Center of Southeast Texas","Port Arthur",Texas,5,2,37,10,0,0,"1,307",29.870904,-93.964278,1,place,,,"Port Arthur",TX,"Jefferson County",77640,US
+BRAZOS,"The Physicians Centre Hospital",Bryan,Texas,NAV,,0,0,0,0,0,30.639285,-96.362454,1,place,,,Bryan,TX,"Brazos County",77801,US
+HARRIS,"The Woman's Hospital of Texas",Houston,Texas,18,3,150,42,82,14,"11,324",29.813142,-95.309789,1,place,,,Houston,TX,"Harris County",77001,US
+THROCKMORTON,"Throckmorton County Memorial Hospital",Throckmorton,Texas,NAV,,0,0,0,0,0,33.158707,-99.145361,1,place,,,Throckmorton,TX,"Throckmorton County",76483,US
+HARRIS,"TIRR Memorial Hermann",Houston,Texas,0,,0,0,0,0,0,29.813142,-95.309789,1,place,,,Houston,TX,"Harris County",77001,US
+TITUS,"Titus Regional Medical Center","Mount Pleasant",Texas,7,2,6,0,3,0,"1,043",33.22101,-94.984645,1,place,,,"Mount Pleasant",TX,"Titus County",75455,US
+FANNIN,"TMC Bonham Hospital",Bonham,Texas,0,,0,0,0,0,0,33.527267,-96.172998,1,place,,,Bonham,TX,"Fannin County",75418,US
+HARRIS,"Tomball Regional Hospital",Tomball,Texas,0,2,8,4,0,0,"1,053",30.094886,-95.585826,1,place,,,Tomball,TX,"Harris County",77375,US
+HARRIS,"TOPS Surgical Specialty Hospital",Houston,Texas,0,,0,0,0,0,0,29.813142,-95.309789,1,place,,,Houston,TX,"Harris County",77001,US
+SMITH,"Trinity Mother Frances Rehabilitation Hospital",Tyler,Texas,0,,0,0,0,0,0,32.321937,-95.302223,1,place,,,Tyler,TX,"Smith County",75701,US
+LUBBOCK,"Trustpoint Rehabilitation Hospital of Lubbock",Lubbock,Texas,0,,0,0,0,0,0,33.588771,-101.850445,1,place,,,Lubbock,TX,"Lubbock County",79401,US
+SMITH,"Tyler Continue Care Hospital",Tyler,Texas,0,,0,0,0,0,0,32.321937,-95.302223,1,place,,,Tyler,TX,"Smith County",75701,US
+TYLER,"Tyler County Hospital",Woodville,Texas,0,,0,0,0,0,0,30.74856,-94.38912,1,place,,,Woodville,TX,"Tyler County",75979,US
+WICHITA,"United Regional Health Care System","Wichita Falls",Texas,25,2,15,0,6,0,"2,095",33.905544,-98.479881,1,place,,,"Wichita Falls",TX,"Wichita County",76301,US
+HARRIS,"University General Hospital",Houston,Texas,0,,0,0,0,0,,29.813142,-95.309789,1,place,,,Houston,TX,"Harris County",77001,US
+BEXAR,"University Hospital","San Antonio",Texas,20,3,26,28,20,21,"3,184",29.468413,-98.528889,1,place,,,"San Antonio",TX,"Bexar County",78201,US
+LUBBOCK,"University Medical Center",Lubbock,Texas,21,3,44,43,0,16,"3,105",33.588771,-101.850445,1,place,,,Lubbock,TX,"Lubbock County",79401,US
+TRAVIS,"University Medical Center at Brackenridge",Austin,Texas,0,3,10,8,0,0,999,30.326374,-97.771258,1,place,,,Austin,TX,"Travis County",73301,US
+"EL PASO","University Medical Center of El Paso","El Paso",Texas,0,3,38,0,0,0,"3,572",31.763608,-106.484592,1,place,,,"El Paso",TX,"El Paso County",79901,US
+HARRIS,"University of Texas M.D. Anderson Cancer Center",Houston,Texas,26,,0,0,0,9,0,29.813142,-95.309789,1,place,,,Houston,TX,"Harris County",77001,US
+GALVESTON,"University of Texas Medical Branch Hospital",Galveston,Texas,12,3,67,42,NAV,4,"6,298",29.310535,-94.775768,1,place,,,Galveston,TX,"Galveston County",77550,US
+DALLAS,"University of Texas Southwestern Medical Center",Dallas,Texas,0,3,27,28,0,0,"1,778",32.781179,-96.790329,1,place,,,Dallas,TX,"Dallas County",75201,US
+TARRANT,"USMD Hospital at Arlington",Arlington,Texas,0,,0,0,0,0,0,32.635563,-97.148829,1,place,,,Arlington,TX,"Tarrant County",76001,US
+TARRANT,"USMD Hospital at Fort Worth","Fort Worth",Texas,0,,,0,0,0,0,32.771419,-97.291484,1,place,,,"Fort Worth",TX,"Tarrant County",76101,US
+SMITH,"UT Health Northeast",Tyler,Texas,0,,0,0,0,0,0,32.321937,-95.302223,1,place,,,Tyler,TX,"Smith County",75701,US
+UVALDE,"Uvalde Memorial Hospital",Uvalde,Texas,NAV,1,6,0,0,0,454,29.240446,-99.727018,1,place,,,Uvalde,TX,"Uvalde County",78801,US
+"VAL VERDE","Val Verde Regional Medical Center","Del Rio",Texas,7,1,18,0,4,0,991,29.410195,-100.893202,1,place,,,"Del Rio",TX,"Val Verde County",78840,US
+CAMERON,"Valley Baptist Medical Center",Harlingen,Texas,25,3,52,23,15,14,"2,394",26.255523,-97.667502,1,place,,,Harlingen,TX,"Cameron County",78550,US
+CAMERON,"Valley Baptist Medical Center - Brownsville",Brownsville,Texas,12,3,35,36,0,0,"2,192",25.963264,-97.550453,1,place,,,Brownsville,TX,"Cameron County",78520,US
+CAMERON,"Valley Regional Medical Center",Brownsville,Texas,21,3,33,10,NAV,0,"2,553",25.963264,-97.550453,1,place,,,Brownsville,TX,"Cameron County",78520,US
+POTTER,"Vibra Hospital of Amarillo",Amarillo,Texas,0,,0,0,0,0,0,35.20603,-101.839602,1,place,,,Amarillo,TX,"Potter County",79101,US
+POTTER,"Vibra Rehabilitation Hospital of Amarillo",Amarillo,Texas,0,,0,0,0,0,0,35.20603,-101.839602,1,place,,,Amarillo,TX,"Potter County",79101,US
+TRAVIS,"Vibra Rehabilitation Hospital of Lake Travis",Lakeway,Texas,0,,0,0,0,0,0,30.367979,-97.991679,0.9,place,,,Lakeway,TX,"Travis County",78734,US
+DALLAS,"Vibra Specialty Hospital","De Soto",Texas,0,,0,0,0,0,0,32.599427,-96.864075,0.67,place,,,Desoto,TX,"Dallas County",75115,US
+HARRIS,"Victory Medical Center Houston",Houston,Texas,0,,0,0,0,0,0,29.813142,-95.309789,1,place,,,Houston,TX,"Harris County",77001,US
+FLOYD,"W.J. Mangold Memorial Hospital",Lockney,Texas,NAV,1,4,0,0,0,40,34.123072,-101.443848,1,place,,,Lockney,TX,"Floyd County",79241,US
+BOWIE,"Wadley Regional Medical Center",Texarkana,Texas,12,2,12,0,8,0,"1,198",33.411321,-94.177354,1,place,,,Texarkana,TX,"Bowie County",75501,US
+DALLAS,"Walnut Hill Medical Center",Dallas,Texas,0,,0,0,0,0,0,32.781179,-96.790329,1,place,,,Dallas,TX,"Dallas County",75201,US
+WARD,"Ward Memorial Hospital",Monahans,Texas,5,,0,0,0,0,2,31.5943,-102.89265,1,place,,,Monahans,TX,"Ward County",79756,US
+COLLIN,"Warm Springs Rehabilitation Hospital of Allen",Allen,Texas,0,,0,0,0,0,0,33.089587,-96.607767,1,place,,,Allen,TX,"Collin County",75002,US
+HAYS,"Warm Springs Rehabilitation Hospital of Kyle",Kyle,Texas,0,,0,0,0,0,0,29.996599,-97.83354,1,place,,,Kyle,TX,"Hays County",78640,US
+BEXAR,"Warm Springs Rehabilitation Hospital of San Antonio","San Antonio",Texas,0,,0,0,0,0,0,29.468413,-98.528889,1,place,,,"San Antonio",TX,"Bexar County",78201,US
+VICTORIA,"Warm Springs Rehabilitation Hospital of Victoria",Victoria,Texas,0,,0,0,0,0,0,28.804947,-96.984711,1,place,,,Victoria,TX,"Victoria County",77901,US
+COMAL,"Warm Springs Specialty Hospital at New Braunfels","New Braunfels",Texas,0,,0,0,0,0,0,29.696878,-98.070726,1,place,,,"New Braunfels",TX,"Comal County",78130,US
+CALDWELL,"Warm Springs Specialty Hospital of Luling",Luling,Texas,0,,0,0,0,0,0,29.709928,-97.638005,1,place,,,Luling,TX,"Caldwell County",78648,US
+BEXAR,"Warm Springs Specialty Hospital of San Antonio","San Antonio",Texas,0,,0,0,0,0,0,29.468413,-98.528889,1,place,,,"San Antonio",TX,"Bexar County",78201,US
+VICTORIA,"Warm Springs Specialty Hospital of Victoria",Victoria,Texas,0,,0,0,0,0,0,28.804947,-96.984711,1,place,,,Victoria,TX,"Victoria County",77901,US
+PARKER,"Weatherford Regional Medical Center",Weatherford,Texas,0,1,10,0,0,0,766,32.780766,-97.806778,1,place,,,Weatherford,TX,"Parker County",76086,US
+HIDALGO,"Weslaco Regional Rehabilitation Hospital",Weslaco,Texas,0,,0,0,0,0,0,26.158623,-97.989155,1,place,,,Weslaco,TX,"Hidalgo County",78596,US
+HARRIS,"West Houston Medical Center",Houston,Texas,0,2,39,0,8,0,"3,196",29.813142,-95.309789,1,place,,,Houston,TX,"Harris County",77001,US
+HARRIS,"Westside Surgical Hosptial",Houston,Texas,0,,0,0,0,0,0,29.813142,-95.309789,1,place,,,Houston,TX,"Harris County",77001,US
+WILBARGER,"Wilbarger General Hospital",Vernon,Texas,0,,0,0,0,0,0,34.155524,-99.284002,1,place,,,Vernon,TX,"Wilbarger County",76384,US
+GRAYSON,"Wilson N. Jones Regional Medical Center",Sherman,Texas,0,2,10,0,0,0,399,33.604131,-96.550405,1,place,,,Sherman,TX,"Grayson County",75090,US
+WINKLER,"Winkler County Memorial Hospital",Kermit,Texas,0,,0,0,0,0,0,31.808357,-103.1135,1,place,,,Kermit,TX,"Winkler County",79745,US
+CHAMBERS,"Winnie Community Hospital",Winnie,Texas,0,,0,0,0,0,0,29.823383,-94.475364,1,place,,,Winnie,TX,"Chambers County",77665,US
+WISE,"Wise Regional Health System",Decatur,Texas,10,1,17,0,0,0,702,33.260148,-97.610974,1,place,,,Decatur,TX,"Wise County",76234,US
+ANGELINA,"Woodland Heights Medical Center",Lufkin,Texas,0,1,8,6,0,NAV,"1,215",31.301706,-94.641414,1,place,,,Lufkin,TX,"Angelina County",75901,US
+MONTGOMERY,"Woodlands Specialty Hospital","The Woodlands",Texas,0,,0,0,0,0,0,30.136972,-95.46836,0.8,place,,,"The Woodlands",TX,"Montgomery County",77380,US
+LAVACA,"Yoakum Community Hospital",Yoakum,Texas,0,1,NAV,0,0,0,82,29.297302,-97.047148,1,place,,,Yoakum,TX,"Lavaca County",77995,US
+YOAKUM,"Yoakum County Hospital","Denver City",Texas,1,1,2,0,0,0,247,33.005196,-102.851592,1,place,,,"Denver City",TX,"Yoakum County",79323,US

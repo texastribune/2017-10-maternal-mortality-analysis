@@ -1,0 +1,4 @@
+category,count,births,deaths,prenatal_eligible,prenatal,race_female_white,race_female_black,race_female_hispanic,race_female_other,race_female_white_perc,race_female_black_perc,race_female_hispanic_perc,race_female_other_perc,mortality_rate,prenatal_rate
+Border,32.0,246925.0,41.0,654992.0,57707.0,5994518.0,87278.0,198023.0,136152.0,9.64,0.85,88.23,1.28,16.6,68.76
+Non-Border,222.0,1677190.0,576.0,28375174.0,7672225.0,18332856.0,3396912.0,1542600.0,996389.0,49.11,13.28,31.73,5.88,34.34,64.59
+Total,254.0,1924115.0,617.0,29030166.0,7729932.0,24327374.0,3484190.0,1740623.0,1132541.0,44.96,11.97,37.68,5.4,32.07,65.07

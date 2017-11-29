@@ -1,0 +1,164 @@
+hospital,OB,address,city,state,zip,county,Latitude,Longitude,Accuracy Score,Accuracy Type,Number
+Christus Spohn Hospital of Alice,X,2500 East Main Street,Alice,TX,78332,Jim Wells,27.764772,-98.044825,1,range_interpolation,2500
+Big Bend Regional Medical Center,X,2600 Highway 118 N,Alpine,TX,79830,Brewster,30.355027,-103.652023,0.8,street_center,
+Chambers Health,,200 Hospital Drive,Anahuac,TX,77514,Chambers,29.752296,-94.68503,1,range_interpolation,200
+Permian Regional Medical Center,X,720 Hospital Dr.,Andrews,TX,79714,Andrews,32.337224,-102.546097,1,range_interpolation,720
+Anson General Hospital,,101 Avenue J,Anson,TX,79501,Jones,32.766358,-99.895502,1,range_interpolation,101
+Stonewall Memorial Hospital,,821 North Broadway,Aspermont,TX,79502,Stonewall,33.151173,-100.227561,0.9,range_interpolation,821
+ETMC - Athens,X,2000 South Palestine,Athens,TX,75751,Henderson,32.169526,-95.842796,1,range_interpolation,2000
+Christus St Michael,,1007 S. William,Atlanta,TX,75551,Cass,33.105172,-94.16537,1,range_interpolation,1007
+Ballinger Memorial Hospital,,608 Avenue B,Ballinger,TX,76821,Runnels,31.748827,-99.96312,1,range_interpolation,608
+Matagorda Regional Medical Center,X,1115 Avenue G,Bay City,TX,77414,Matagorda,28.992503,-95.969015,1,range_interpolation,1115
+Christus Spohn Hospital - Beeville,X,1500 East Houston Hwy,Beeville,TX,78102,Bee,28.488192,-97.730956,0.33,place,
+Bellville St. Joseph Health Center,,44 N. Cummings,Bellville,TX,77418,Austin,29.952341,-96.260892,1,range_interpolation,44
+Reagan Memorial Hospital,,805 North Main St,Big Lake,TX,76932,Reagan,31.197506,-101.461508,0.8,range_interpolation,805
+Scenic Mountain Medical Center,,1601 W. 11th Place,Big Spring,TX,79720,Howard,32.242037,-101.483999,1,range_interpolation,1601
+TMC Bonham Hospital,,504 Lipscomb,Bonham,TX,75418,Fannin,33.576622,-96.167374,1,range_interpolation,504
+Golden Plains Community Hospital,X,200 South McGee,Borger,TX,79007,Hutchinson,35.664133,-101.394234,1,range_interpolation,200
+Central Hospital of Bowie,,705 E. Greenwood Ave.,Bowie,TX,76230,Montague,33.56141,-97.834477,1,range_interpolation,705
+Heart Of Texas Healthcare System,,2008 Nine Road,Brady,TX,76825,McCulloch,31.114856,-99.348182,1,range_interpolation,2008
+Stephens Memorial Hospital,,200 South Geneva St,Breckenridge,TX,76424,Stephens,32.753467,-98.887759,1,range_interpolation,200
+Baylor/Scott & White Hospital - Brenham,X,700 Medical Parkway,Brenham,TX,77833,Washington,30.145562,-96.399062,1,rooftop,700
+Brownfield Regional Medical Center,X,705 East Felt,Brownfield,TX,79316,Terry,33.187214,-102.267991,1,range_interpolation,705
+Brownwood Regional Medical Center,X,1501 Burnet Drive,Brownwood,TX,76804,Brown,31.675762,-98.992548,1,range_interpolation,1501
+Seton Highland Lakes Hospital,,3201 South Water St,Burnet,TX,78611,Burnet,30.732875,-98.23702,1,rooftop,3201
+Burleson St Joseph Health Center,,1101 Woodson Drive,Caldwell,TX,77836,Burleson,30.5212,-96.716526,1,range_interpolation,1101
+Little River Healthcare - Cameron,,806 North Crockett,Cameron,TX,76520,Milam,30.857451,-96.977663,1,rooftop,806
+Hemphill County Hospital District,,1020 South Fourth,Canadian,TX,79014,Hemphill,35.904503,-100.384093,0.33,place,
+Dimmit Regional Hospital,X,704 Hospital Drive,Carrizo Springs,TX,78834,Dimmit,28.519931,-99.861562,1,range_interpolation,704
+ETMC - Carthage,,409 Cottage Road,Carthage,TX,75633,Panola,32.167479,-94.346928,0.8,street_center,
+Childress Regional Medical Center,X,901 US Hwy 83,Childress,TX,79201,Childress,34.347878,-100.281616,0.8,street_center,
+Chillicothe Hospital,,303 Avenue I,Chillicothe,TX,79225,Hardeman,34.254582,-99.516281,0.8,range_interpolation,303
+Goodall-Witcher Hospital,X,101 South Avenue T,Clifton,TX,76634,Bosque,31.779019,-97.582901,1,range_interpolation,101
+Coleman County Medical Center,X,310 South Pecos St,Coleman,TX,76834,Coleman,31.828243,-99.425344,1,range_interpolation,310
+Mitchell County Hospital,,997 W. I-20,Colorado City,TX,79512,Mitchell,32.389478,-100.87632,0.8,range_interpolation,997
+Columbus Community Hospital,X,110 Shult Drive,Columbus,TX,78934,Colorado,29.694455,-96.542413,1,range_interpolation,110
+Comanche County Medical Center,,10201 Hwy 16 North,Comanche,TX,76442,Comanche,31.905422,-98.603594,0.8,street_center,
+Navarro Regional Hospital,X,3201 W. Highway 22,Corsicana,TX,75110,Navarro,32.084972,-96.503742,1,range_interpolation,3201
+Crane Memorial Hospital,,1310 South Alford St,Crane,TX,79731,Crane,31.389891,-102.349264,1,range_interpolation,1310
+Crosbyton Clinic Hospital,,710 West Main St.,Crosbyton,TX,79322,Crosby,33.660134,-101.245631,1,range_interpolation,710
+Cuero Community Hospital,X,2550 N. Esplanade,Cuero,TX,77954,DeWitt,29.115232,-97.281053,1,range_interpolation,2550
+Coon Memorial Hospital,X,1411 Denver Avenue,Dalhart,TX,79022,Hartley,36.052278,-102.521667,1,range_interpolation,1411
+Wise Regional Health System,X,609 Medical Center Dr.,Decatur,TX,76234,Wise,33.260148,-97.610974,0.33,place,
+Val Verde Regional Medical Center,X,801 Bedell Ave.,Del Rio,TX,78840,Val Verde,29.374135,-100.892394,0.9,range_interpolation,801
+Yoakum County Hospital,X,412 Mustang Avenue,Denver City,TX,79323,Yoakum,32.968068,-102.836252,1,range_interpolation,412
+Castro County Hospital,,310 West Halsell,Dimmitt,TX,79027,Castro,34.555723,-102.315091,1,range_interpolation,310
+Moore County Hospital District,X,224 East 2nd S,Dumas,TX,79029,Moore,35.864133,-101.970707,1,range_interpolation,224
+Rice Medical Center,X,600 South Austin R,Eagle Lake,TX,77434,Colorado,29.597495,-96.338963,1,range_interpolation,600
+Fort Duncan Regional Medical Center,X,3333 N. Foster Maldonado Blvd.,Eagle Pass,TX,78852,Maverick,28.781057,-100.312766,0.33,place,
+Eastland Memorial Hospital,,304 South Daugherty St.,Eastland,TX,76448,Eastland,32.403366,-98.821763,0.9,range_interpolation,304
+Concho County Hospital,,614 Eaker,Eden,TX,76837,Concho,31.220716,-99.84886,0.8,street_center,
+Jackson Healthcare Center,,1013 South Wells St.,Edna,TX,77957,Jackson,28.973903,-96.640981,0.8,street_center,
+El Campo Memorial Hospital,,303 Sandy Corner Road,El Campo,TX,77437,Wharton,29.219255,-96.289513,1,range_interpolation,303
+Schleicher County Medical Center,,400 W. Murchison,Eldorado,TX,76936,Schleicher,30.856625,-100.596893,0.9,range_interpolation,400
+Electra Memorial Hospital,,1207 S. Bailey Street,Electra,TX,76360,Wichita,34.018807,-98.924066,1,range_interpolation,1207
+Freestone Medical Center,,125 Newman St,Fairfield,TX,75840,Freestone,31.725024,-96.169732,1,range_interpolation,125
+Connally Memorial Medical Center,,499 10th St.,Floresville,TX,78114,Wilson,29.151658,-98.164222,1,range_interpolation,499
+Pecos County Memorial Hospital,X,387 West I-10,Fort Stockton,TX,79735,Pecos,30.886367,-102.890491,0.33,place,
+Hill Country Memorial Hospital,X,1020 S. State Hwy 16,Fredericksburg,TX,78624,Gillespie,30.282365,-98.862719,0.9,range_interpolation,1020
+Parmer Medical Center,,1307 Cleveland St,Friona,TX,79035,Parmer,34.643343,-102.721234,1,range_interpolation,1307
+North Texas Medical Center,X,1900 Hospital Blvd.,Gainesville,TX,76240,Cooke,33.654698,-97.158295,0.33,place,
+Coryell Memorial Healthcare System,,1507 West Main St,Gatesville,TX,76528,Coryell,31.433259,-97.779135,1,range_interpolation,1507
+Glen Rose Medical Center,,1021 Holden St,Glen Rose,TX,76043,Somervell,32.240655,-97.748774,1,range_interpolation,1021
+Gonzales Healthcare System,X,Hwy 90 A Bypass,Gonzales,TX,78629,Gonzales,29.703908,-97.335462,1,street_center,
+Graham Regional Medical Center,,1301 Montgomery Rd,Graham,TX,76450,Young,33.089702,-98.587254,0.8,street_center,
+Lake Granbury Medical Center,X,1310 Paluxy,Granbury,TX,76048,Hood,32.431233,-97.803679,1,range_interpolation,1310
+Texas General Hospital - Grand Saline,,707 North Waldrip,Grand Saline,TX,75140,Van Zandt,32.679043,-95.72191,1,range_interpolation,707
+Limestone Medical Center,,701 McClintic,Groesbeck,TX,76642,Limestone,31.53146,-96.530046,1,range_interpolation,701
+Lavaca Medical Center,,1400 North Texana St,Hallettsville,TX,77964,Lavaca,29.477991,-96.794939,0.8,street_center,
+Hamilton Healthcare System,,400 North Brown St.,Hamilton,TX,76531,Hamilton,31.702771,-98.113815,0.8,street_center,
+Hamlin Memorial Hospital,,632 NW 2nd Street,Hamlin,TX,79520,Jones,32.885209,-100.135182,1,range_interpolation,632
+Haskell Memorial Hospital,,1 North Avenue N,Haskell,TX,79521,Haskell,33.164719,-99.73377,0.8,street_center,
+Sabine County Hospital,,2301 Hwy 83 West,Hemphill,TX,75948,Sabine,31.340021,-93.862204,0.8,street_center,
+ETMC - Henderson,X,300 Wilson St,Henderson,TX,75652,Rusk,32.161465,-94.796431,1,range_interpolation,300
+Clay County Memorial Hospital,,310 W. South St.,Henrietta,TX,76365,Clay,33.814041,-98.197459,1,range_interpolation,310
+Hereford Regional Medical Center,X,801 East 3rd St.,Hereford,TX,79045,Deaf Smith,34.820435,-102.391849,1,range_interpolation,801
+Hill Regional Hospital,X,101 Circle Drive,Hillsboro,TX,76645,Hill,31.852836,-96.803688,1,range_interpolation,101
+Medina Regional Hospital,X,3100 Avenue E,Hondo,TX,78861,Medina,29.334275,-99.133401,1,range_interpolation,3100
+Huntsville Memorial Hospital,X,110 Memorial Hospital Drive,Huntsville,TX,77340,Walker,30.644755,-95.579836,0.33,place,
+Iraan General Hospital,,600 Hwy 349 North,Iraan,TX,79744,Pecos,30.914298,-101.900542,0.8,street_center,
+Faith Community Hospital,X,215 Chisholm Trail,Jacksboro,TX,76458,Jack,33.246805,-98.264241,0.33,place,
+Mother Frances - Jacksonville,,2026 South Jackson,Jacksonville,TX,75766,Cherokee,31.936375,-95.248232,1,range_interpolation,2026
+ETMC - Jacksonville,X,501 South Ragsdale,Jacksonville,TX,75766,Cherokee,31.959501,-95.269452,1,range_interpolation,501
+Christus Jasper Memorial Hospital,X,1275 Marvin Hancock Drive,Jasper,TX,75951,Jasper,30.909692,-94.008314,1,range_interpolation,1275
+South Texas Regional Medical Center,X,1905 Highway 97 East,Jourdanton,TX,78026,Atascosa,28.921431,-98.541263,0.8,street_center,
+Kimble Hospital,,2101 N. Main St,Junction,TX,76849,Kimble,30.500395,-99.778374,0.9,range_interpolation,2101
+Otto Kaiser Memorial Hospital,,3349 S. Hwy 181,Kenedy,TX,78119,Karnes,28.809397,-97.857246,0.8,street_center,
+Winkler County Memorial Hospital,,821 Jeffee Drive,Kermit,TX,79745,Winkler,31.84924,-103.089851,1,range_interpolation,821
+Peterson Regional Medical Center,X,551 Hill Country Drive,Kerrville,TX,78028,Kerr,30.042519,-99.149706,0.8,street_center,
+Christus Spohn Hospital - Kleberg,X,1311 General Cavazos,Kingsville,TX,78363,Kleberg,27.491557,-97.850894,0.9,range_interpolation,1311
+Knox County Hospital,,701 South 5th St,Knox City,TX,76849,Knox,30.489712,-99.765228,0.8,street_center,
+Saint Marks Medical Center,,One St. Mark's Place-Hwy 77 N,LaGrange,TX,78945,Fayette,29.896494,-96.872133,0.67,place,
+Medical Arts Hospital,X,1600 North Bryan Avenue,Lamesa,TX,79331,Dawson,32.744757,-101.964737,1,range_interpolation,1600
+Rollins Brook Community Hospital,,608 N. Key,Lampasas,TX,76550,Lampasas,31.183225,-98.236306,0.33,place,
+Covenant Hospital - Levelland,X,1900 College Avenue,Levelland,TX,79336,Hockley,33.573096,-102.367613,0.8,range_interpolation,1900
+Liberty-Dayton Community Hospital,,1353 North Travis,Liberty,TX,77575,Liberty,30.068228,-94.79803,1,range_interpolation,1353
+Lamb Healthcare Center,X,1500 South Sunset,Littlefield,TX,79339,Lamb,33.911064,-102.345461,1,range_interpolation,1500
+CHI - St Lukes,X,1717 Highway 59 Bypass,Livingston,TX,77351,Polk,30.689671,-94.936591,0.8,street_center,
+Baylor/Scott & White - Llano,X,200 West Ollie St,Llano,TX,78643,Llano,30.743493,-98.677076,1,range_interpolation,200
+W.J. Mangold Memorial Hospital,,320 North Main St.,Lockney,TX,79241,Floyd,34.127287,-101.441539,1,range_interpolation,320
+CHI St Lukes - Memorial Medical Center,X,1201 W Frank,Lufkin,TX,75904,Angelina,31.336726,-94.743861,1,range_interpolation,1201
+Woodland Heights Medical,X,505 S. John Redditt Dr,Lufkin,TX,75904,Angelina,31.329487,-94.757257,0.8,range_interpolation,505
+Seton Edgar B. Davis,,130 Hays Street,Luling,TX,78648,Caldwell,29.673152,-97.654516,1,rooftop,130
+Madison St Joseph Health Center,,100 West Cross,Madisonville,TX,77864,Madison,30.94159,-95.911394,1,range_interpolation,100
+Baylor/S&W Hurd Regional,X,800 West Highway 71,Marble Falls,TX,78654,Burnet,30.512579,-98.303677,0.4,rooftop,800
+Falls County Community Hospital,,322 Coleman Street,Marlin,TX,76661,Falls,31.307314,-96.893024,1,range_interpolation,322
+Good Shepard Medical Center - Marshall,X,811 South Washington,Marshall,TX,75670,Harrison,32.537513,-94.36795,1,range_interpolation,811
+McCamey Hospital,,2500 Hwy 305 South,McCamey,TX,79752,Upton,31.16157,-102.107279,0.33,place,
+Parkview Regional Hospital,,600 S. Bonham,Mexia,TX,76667,Limestone,31.672478,-96.47963,1,range_interpolation,600
+Palo Pinto General Hospital,X,400 Southwest 25th Ave,Mineral Wells,TX,76067,Palo Pinto,32.807335,-98.088053,1,range_interpolation,400
+Ward Memorial Hospital,,406 S. Gary,Monahans,TX,79756,Ward,31.593033,-102.884386,0.8,range_interpolation,406
+Cochran Memorial Hospital,,205 East Grant,Morton,TX,79346,Cochran,33.719426,-102.756958,1,range_interpolation,205
+Titus Regional Medical Center,X,2001 North Jefferson,Mount Pleasant,TX,75455,Titus,33.175399,-94.970396,1,range_interpolation,2001
+Muenster Memorial Hospital,,605 North Maple St.,Muenster,TX,76252,Cooke,33.654776,-97.379837,1,range_interpolation,605
+Muleshoe Area Medical Center,,708 South 1st Street,Muleshoe,TX,79347,Bailey,34.222066,-102.727561,1,range_interpolation,708
+Nacogdoches Memorial Hospital,X,1204 N Mound St,Nacogdoches,TX,75961,Nacogdoches,31.613379,-94.649304,1,range_interpolation,1204
+Nacogdoches Medical Center,X,4920 NE Stallings Dr,Nacogdoches,TX,75965,Nacogdoches,31.652191,-94.65483,1,range_interpolation,4920
+Grimes St Joseph Health Center,,210 South Judson,Navasota,TX,77868,Grimes,30.383369,-96.008619,0.33,place,
+Nocona General Hospital,,100 Park Road,Nocona,TX,76255,Montague,33.777553,-97.731541,0.8,street_center,
+Olney Hamilton Hospital,X,901 W. Hamilton,Olney,TX,76374,Young,33.369338,-98.763453,0.9,range_interpolation,901
+Palacios Community Medical Center,,311 Green Avenue,Palacios,TX,77465,Matagorda,28.717294,-96.212796,1,range_interpolation,311
+Palestine Regional Medical Center,X,2900 South Loop 256,Palestine,TX,75801,Anderson,31.733504,-95.625283,1,range_interpolation,2900
+Pampa Regional Medical Center,X,One Medical Plaza,Pampa,TX,79065,Gray,35.515114,-100.836363,1,place,
+Paris Regional Medical Center,X,865 Deshong Drive,Paris,TX,75462,Lamar,33.686194,-95.54576,1,range_interpolation,865
+Frio Regional Hospital,X,200 S. IH-35,Pearsall,TX,78061,Frio,28.867782,-99.108227,0.33,place,
+Reeves County Hospital,X,2323 Texas Street,Pecos,TX,79772,Reeves,31.402269,-103.512821,1,range_interpolation,2323
+Ochiltree General Hospital,X,3101 Garrett Drive,Perryton,TX,79070,Ochiltree,36.370657,-100.799652,1,range_interpolation,3101
+ETMC - Pittsburg,,414 Quitman St,Pittsburg,TX,75686,Camp,32.998959,-94.973292,1,range_interpolation,414
+Covenant Hospital - Plainview,X,2601 Dimmitt Road,Plainview,TX,79072,Hale,34.206722,-101.731042,1,range_interpolation,2601
+Memorial Medical Center,X,815 North Virginia,Port Lavaca,TX,77979,Calhoun,28.620915,-96.631675,1,range_interpolation,815
+Hardeman County Memorial Hospital,,402 Mercer Street,Quanah,TX,79252,Hardeman,34.29602,-99.741351,1,range_interpolation,402
+ETMC - Quitman,,117 N. Winnsboro,Quitman,TX,75783,Wood,32.795957,-95.445354,1,range_interpolation,117
+Rankin County Hospital,,P.O. Box 327,Rankin,TX,79778,Upton,31.226573,-101.944129,1,place,
+Refugio County Memorial Hospital,,107 Swift Street,Refugio,TX,78377,Refugio,28.30653,-97.279572,1,range_interpolation,107
+Starr County Memorial Hospital,X,2573 Hospital Court,Rio Grande City,TX,78582,Starr,26.377748,-98.859202,0.8,street_center,
+Little River Healthcare - Rockdale,,1700 Brazos,Rockdale,TX,76567,Milam,30.649898,-97.02199,1,range_interpolation,1700
+Fisher County Hospital,,774 Highway 70 North,Rotan,TX,79546,Fisher,32.858943,-100.467826,1,range_interpolation,774
+Memorial Medical Center,,511 East Hospital St,San Augustine,TX,75972,San Augustine,31.53154,-94.105163,1,range_interpolation,511
+Memorial Hospital - Seminole,X,209 Northwest Eighth St,Seminole,TX,79360,Gaines,32.722952,-102.653907,1,range_interpolation,209
+Seymour Hospital,X,200 Stadium Drive,Seymour,TX,76380,Baylor,33.592128,-99.247398,1,range_interpolation,200
+Shamrock General Hospital,,1000 South Main,Shamrock,TX,79079,Wheeler,35.197296,-100.249146,1,range_interpolation,1000
+Cogdell Memorial Hospital,X,1700 Cogdell Blvd,Snyder,TX,79549,Scurry,32.688692,-100.917588,1,range_interpolation,1700
+Lillian M Hudspeth Memorial Hospital,,308 Hudspeth Street,Sonora,TX,76950,Sutton,30.563802,-100.634827,1,range_interpolation,308
+Hansford Hospital,,707 South Roland,Spearman,TX,79081,Hansford,36.189961,-101.200033,1,range_interpolation,707
+Jones County Regional Hospital,,1601 Columbia Street,Stamford,TX,79553,Jones,32.937158,-99.785103,0.8,street_center,
+Martin County Hospital District,,610 No. Saint Peter St.,Stanton,TX,79782,Martin,32.200014,-101.823066,0.33,place,
+Harris Methodist - Erath County,X,411 North Belknap,Stephenville,TX,76401,Erath,32.222262,-98.204054,1,range_interpolation,411
+Christus-Mother Frances Hospital,X,115 Airport Road,Sulphur Springs,TX,75482,Hopkins,33.15624,-95.599196,1,range_interpolation,115
+Sweeny Community Hospital,,305 N. McKinney St.,Sweeny,TX,77480,Brazoria,29.04808,-95.691076,1,range_interpolation,305
+Rolling Plains Memorial Hospital,X,200 East Arizona Ave.,Sweetwater,TX,79556,Nolan,32.453727,-100.398282,1,range_interpolation,200
+Lynn County Hospital District,,2600 Lockwood,Tahoka,TX,79373,Lynn,33.166352,-101.815327,1,range_interpolation,2600
+Baylor/Scott & White Hospital - Taylor,,305 Mallard Lane,Taylor,TX,76574,Williamson,30.59102,-97.415379,1,rooftop,305
+Throckmorton County Memorial Hospital,,802 N. Minter St.,Throckmorton,TX,76483,Throckmorton,33.190427,-99.177128,1,range_interpolation,802
+Swisher Memorial Hospital,,539 Southeast 2nd St.,Tulia,TX,79088,Swisher,34.535752,-101.75532,1,range_interpolation,539
+Uvalde Memorial Hospital,X,1025 Garner Field Rd.,Uvalde,TX,78801,Uvalde,29.214799,-99.769432,1,range_interpolation,1025
+Culberson Hospital,,Eisenhower & FM 2185,Van Horn,TX,79849,Culberson,31.047309,-104.828042,1,street_center,
+Wilbarger General Hospital,,920 Hillcrest Drive,Vernon,TX,76384,Wilbarger,34.159803,-99.313535,1,range_interpolation,920
+Weimar Medical Center,,400 Youens Drive,Weimar,TX,78962,Colorado,29.692338,-96.790901,1,range_interpolation,400
+Collingsworth General Hospital,,1013 15th Street,Wellington,TX,79095,Collingsworth,34.848941,-100.212948,1,range_interpolation,1013
+Parkview Hospital,,901 S. Sweetwater,Wheeler,TX,79096,Wheeler,35.438627,-100.270881,1,range_interpolation,901
+Riceland Medical Center,,538 Broadway,Winnie,TX,77665,Chambers,29.820679,-94.375972,0.8,range_interpolation,538
+Mother Frances Hospital - Winnsboro,,P. O. Box 628,Winnsboro,TX,75494,Wood,32.944701,-95.306215,1,place,
+North Runnels Hospital,,East Highway 53,Winters,TX,79567,Runnels,31.951207,-99.955406,1,place,
+Tyler County Hospital,,1100 West Bluff,Woodville,TX,75979,Tyler,30.74856,-94.38912,0.33,place,
+Yoakum Community Hospital,X,1200 Carl Ramert Dr.,Yoakum,TX,77995,Lavaca,29.305215,-97.128771,1,range_interpolation,1200
