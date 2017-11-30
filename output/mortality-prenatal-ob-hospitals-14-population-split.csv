@@ -1,4 +1,4 @@
 category,count,births,deaths,prenatal_eligible,prenatal,mortality_rate,prenatal_rate
-OB hospital(s),111.0,371639.0,124.0,351868.0,217086.0,33.37,61.7
-No OB hospital(s),143.0,27542.0,15.0,26087.0,15912.0,54.46,61.0
-Total,254.0,399181.0,139.0,14134.0,232998.0,34.82,1648.49
+OB hospital(s),111,371639,124,351868,217086,33.37,61.7
+No OB hospital(s),143,27542,15,26087,15912,54.46,61
+Total,254,399181,139,14134,232998,34.82,1648.49
