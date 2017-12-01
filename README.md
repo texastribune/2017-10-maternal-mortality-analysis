@@ -42,17 +42,25 @@ Several Juypter notebooks were used to run the analysis. Here's a breakdown of e
   * This first takes prenatal data, which is broken down by year for 2010 to 2014 and sums it all. It also calculates how many eligible pregnant women there are for each county because all that is provided is the number of women who received and what percentage they were of all women.
   * It then merges that data with race data, which probably won't be used in the initial story.
   * Finally, sums all the race data, which probably won't be used.
+
 01-prenatal-race:
+
   * This combines prenatal data broken down by race with each county's urban/rural designation. Race data probably won't be used in the initial story.
+
 02-mortality-race:
+
   * This merges five years of mortality and race data into one csv, with a row for each county. Race data probably won't be used in the initial story.
   * It then merges the mortalty rates for each county with race data, which probably won't be used in the initial story.
   * It then sums up each race and calculates the rate for each race, which probably won't be used in the initial story.
   * Those files now have maternal rates and race information for each county. It is combined with the county's urban/rural designation to determine if the county is rural or urban. It's also combined with border information to determine if the county is on the border or not.
+
 03-ob-hospitals:
+
   * This first joins hospital obstetric data with the spreadsheet that has the mortality rate, race data and urban/rural designation for each county. The hosital obstetric data is a spreadsheet that has each county listed and whether or not they have a hospital with an obstetric bed in the county. This sheet was created by hand, using the 2014 hospital obstetric reports. 
   * Prenatal data is then added to the sheet that was just created.
+
 04-output:
+
   * This is where the actual calculations are run. We combine the urban and rural counties together and figure out mortality and prenatal rates, as well as race data, for each. We do the same for counties that have hospitals that have obstetric beds to those that don't. The final files are put in the input directory.
 
 ## Data
