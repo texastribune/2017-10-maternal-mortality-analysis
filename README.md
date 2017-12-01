@@ -62,6 +62,7 @@ Several Juypter notebooks were used to run the analysis. Here's a breakdown of e
 04-output:
 
   * This is where the actual calculations are run. We combine the urban and rural counties together and figure out mortality and prenatal rates, as well as race data, for each. We do the same for counties that have hospitals that have obstetric beds to those that don't. The final files are put in the input directory.
+    * NOTE: There was an issue with calculating prenatal rates for counties with OB hospitals v. counties without these hospitals. This incorrect prenatal data is the output/mortality-prenatal-ob-hospitals-14-population-split.csv file. To rectify this, the prenatal rate was calculated manually using Excel. This correct data is in the output/prenatal-ob-hospitals-excel.xlsx file.
 
 ## Data
 
