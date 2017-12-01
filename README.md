@@ -36,7 +36,9 @@ Several Juypter notebooks were used to run the analysis. Here's a breakdown of e
 
 01-population:
   * This is used to convert race data for each county into usable csv files. Race data probably won't be used in the initial story.
+
 01-prenatal:
+
   * This first takes prenatal data, which is broken down by year for 2010 to 2014 and sums it all. It also calculates how many eligible pregnant women there are for each county because all that is provided is the number of women who received and what percentage they were of all women.
   * It then merges that data with race data, which probably won't be used in the initial story.
   * Finally, sums all the race data, which probably won't be used.
