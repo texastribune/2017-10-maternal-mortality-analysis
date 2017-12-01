@@ -1,9 +1,9 @@
 # Analysis of maternal mortality data
 
-This repo contains data, code and explanations supporting the Texas Tribune's maternal mortality project. We used two analysis in the story:
+This repo contains data, code and analyis supporting the Texas Tribune's maternal mortality project. We used two main analysis in the story:
   
-  * The mortality and prenatal rate in rural counties v. urban counties in Texas for 2010-14.
-  * The mortality and prenatal rate for counties with at least one hospital with an obstetric bed v. those that did not. This was for just 2014.
+  * The mortality and prenatal rates in rural counties v. urban counties in Texas for 2010-14.
+  * The mortality and prenatal rate for counties with at least one hospital with an obstetric bed v. those that did not have one. This was for 2014.
 
 ## Installation
 
